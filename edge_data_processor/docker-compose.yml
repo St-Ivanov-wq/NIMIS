@@ -1,0 +1,28 @@
+version: '3.8'
+
+services:
+  processor:
+    build: .
+    env_file: .env
+    volumes:
+      - ./input:/app/input
+      - ./output:/app/output
+    depends_on:
+      postgres:
+        condition: service_healthy
+
+  postgres:
+    image: postgres:14
+    env_file: .env
+    volumes:
+      - pgdata:/var/lib/postgresql/data
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U machine_user"]
+      interval: 5s
+      timeout: 5s
+      retries: 5
+    ports:
+      - "5432:5432"
+
+volumes:
+  pgdata:
