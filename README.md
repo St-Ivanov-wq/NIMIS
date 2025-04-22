@@ -1,26 +1,21 @@
-What It Does
-Watches for New Files
-Uses watchdog to monitor a folder and kick off processing whenever a new file shows up.
+**Real-Time Directory Monitoring**  
+Automatically detects and processes new files in `~/machine_app/input` using `watchdog`.
 
-Process Machine Data
-Parses and validates raw machine sensor files
+**Industrial Data Pipeline**  
+- Validates/parses machine sensor data  
+- Stores structured records in PostgreSQL  
+- Archives processed files with audit logs
 
-Stores clean, structured data into PostgreSQL
+**Edge Layer Integration**  
+Prepares data for AI-driven anomaly detection in the
 
-Keeps a log of what was processed and archives the original files
-
-Feeds into the Bigger System
-Acts as the edge layer for the NIMIS Pipeline, prepping data for AI-based monitoring and analysis.
-
-Getting Started
-Requirements
-Python 3.10 or newer
-
-PostgreSQL 14+
-
-Setup
-bash
-Copy
-Edit
-cp .env.example .env
 # Edit the .env file to match your database settings
+
+
+## Quick Start
+1. **Prerequisites**  
+   PostgreSQL 14+, Python 3.10+
+
+2. **Configure Environment**  
+   ```bash
+   cp .env.example .env  # Update with your DB credentials
