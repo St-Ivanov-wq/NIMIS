@@ -1,24 +1,44 @@
-**Real-Time Directory Monitoring**  
-Automatically detects and processes new files in `~/machine_app/input` using `watchdog`.
+<div align="center">
 
-**Industrial Data Pipeline**  
-- Validates/parses machine sensor data  
-- Stores structured records in PostgreSQL  
-- Archives processed files with audit logs
+# <span style="color: #8A2BE2">N</span><span style="color: #9370DB">e</span><span style="color: #7B68EE">b</span><span style="color: #6A5ACD">u</span><span style="color: #483D8B">l</span><span style="color: #4169E1">O</span><span style="color: #1E90FF">u</span><span style="color: #00BFFF">S</span>  
+### Meta Operating System for Hyper-Distributed Cloud Applications  
+[![License](https://img.shields.io/badge/License-Apache%202.0-purple.svg?style=for-the-badge)](https://opensource.org/licenses/Apache-2.0)
 
-**Edge Layer Integration**  
-Prepares data for AI-driven anomaly detection in the
+</div>
 
-# Edit the .env file to match your database settings
-#Block Diagram
+<div style="background: linear-gradient(135deg, #1a1a2e 0%, #16213e 100%); padding: 2rem; border-radius: 15px; border: 1px solid #2a2a4a;">
 
-![NIMIS](https://github.com/user-attachments/assets/279cb028-98c4-411f-8ef1-d2de8f9583b0)
+## 🌌 Next-Gen Cloud Orchestration  
+**NebulOuS** enables seamless deployment of hyper-distributed applications across the cloud continuum through:  
+- **AI-Driven Resource Brokerage**  
+- **Energy-Aware Task Orchestration**  
+- **Secure Cross-Layer Communication**  
 
+</div>
 
-## Quick Start
-1. **Prerequisites**  
-   PostgreSQL 14+, Python 3.10+
+---
 
-2. **Configure Environment**  
-   ```bash
-   cp .env.example .env  # Update with your DB credentials
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 2rem 0;">
+
+<div style="background: #0f0c29; padding: 1.5rem; border-radius: 12px; border: 1px solid #302b63;">
+<h3 style="color: #7F00FF; margin-top: 0;">🚀 Key Features</h3>
+<ul style="color: #e6e6fa;">
+<li>Multi-Cloud & Edge Federation</li>
+<li>Quantum-Resistant Security Layer</li>
+<li>FAIR Data Compliance Engine</li>
+<li>Carbon-Aware Scheduling</li>
+</ul>
+</div>
+
+<div style="background: #0f0c29; padding: 1.5rem; border-radius: 12px; border: 1px solid #302b63;">
+<h3 style="color: #00BFFF; margin-top: 0;">🛠️ Quick Start</h3>
+
+```bash
+# Clone repository
+git clone https://github.com/nebulouscloud/NebulOuS.git
+
+# Initialize environment
+cd NebulOuS && make configure
+
+# Deploy core services
+make deploy
