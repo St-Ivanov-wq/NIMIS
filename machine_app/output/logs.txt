@@ -1,0 +1,472 @@
+2025-04-22 21:54:06,933 - INFO - Database initialization completed
+2025-04-22 21:54:06,944 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:02:24,423 - INFO - Database initialization completed
+2025-04-22 22:02:24,425 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:09:28,763 - INFO - Processing file: testfile_1.txt
+2025-04-22 22:09:28,807 - INFO - Inserted 1 records from testfile_1.txt
+2025-04-22 22:09:28,817 - INFO - Moved testfile_1.txt to output directory
+2025-04-22 22:09:29,824 - INFO - Processing file: testfile_2.txt
+2025-04-22 22:09:29,892 - INFO - Inserted 1 records from testfile_2.txt
+2025-04-22 22:09:29,892 - INFO - Moved testfile_2.txt to output directory
+2025-04-22 22:09:30,898 - INFO - Processing file: testfile_3.txt
+2025-04-22 22:09:30,952 - INFO - Inserted 1 records from testfile_3.txt
+2025-04-22 22:09:30,954 - INFO - Moved testfile_3.txt to output directory
+2025-04-22 22:09:31,957 - INFO - Processing file: testfile_4.txt
+2025-04-22 22:09:32,024 - INFO - Inserted 1 records from testfile_4.txt
+2025-04-22 22:09:32,027 - INFO - Moved testfile_4.txt to output directory
+2025-04-22 22:09:33,031 - INFO - Processing file: testfile_5.txt
+2025-04-22 22:09:33,086 - INFO - Inserted 1 records from testfile_5.txt
+2025-04-22 22:09:33,092 - INFO - Moved testfile_5.txt to output directory
+2025-04-22 22:09:34,095 - INFO - Processing file: testfile_6.txt
+2025-04-22 22:09:34,151 - INFO - Inserted 1 records from testfile_6.txt
+2025-04-22 22:09:34,152 - INFO - Moved testfile_6.txt to output directory
+2025-04-22 22:09:35,156 - INFO - Processing file: testfile_7.txt
+2025-04-22 22:09:35,197 - INFO - Inserted 1 records from testfile_7.txt
+2025-04-22 22:09:35,198 - INFO - Moved testfile_7.txt to output directory
+2025-04-22 22:09:36,204 - INFO - Processing file: testfile_8.txt
+2025-04-22 22:09:36,264 - INFO - Inserted 1 records from testfile_8.txt
+2025-04-22 22:09:36,264 - INFO - Moved testfile_8.txt to output directory
+2025-04-22 22:09:37,267 - INFO - Processing file: testfile_9.txt
+2025-04-22 22:09:37,308 - INFO - Inserted 1 records from testfile_9.txt
+2025-04-22 22:09:37,309 - INFO - Moved testfile_9.txt to output directory
+2025-04-22 22:09:38,310 - INFO - Processing file: testfile_10.txt
+2025-04-22 22:09:38,366 - INFO - Inserted 1 records from testfile_10.txt
+2025-04-22 22:09:38,369 - INFO - Moved testfile_10.txt to output directory
+2025-04-22 22:09:39,375 - INFO - Processing file: testfile_11.txt
+2025-04-22 22:09:39,422 - INFO - Inserted 1 records from testfile_11.txt
+2025-04-22 22:09:39,424 - INFO - Moved testfile_11.txt to output directory
+2025-04-22 22:09:40,431 - INFO - Processing file: testfile_12.txt
+2025-04-22 22:09:40,469 - INFO - Inserted 1 records from testfile_12.txt
+2025-04-22 22:09:40,471 - INFO - Moved testfile_12.txt to output directory
+2025-04-22 22:09:41,476 - INFO - Processing file: testfile_13.txt
+2025-04-22 22:09:41,540 - INFO - Inserted 1 records from testfile_13.txt
+2025-04-22 22:09:41,545 - INFO - Moved testfile_13.txt to output directory
+2025-04-22 22:09:42,549 - INFO - Processing file: testfile_14.txt
+2025-04-22 22:09:42,591 - INFO - Inserted 1 records from testfile_14.txt
+2025-04-22 22:09:42,591 - INFO - Moved testfile_14.txt to output directory
+2025-04-22 22:09:43,593 - INFO - Processing file: testfile_15.txt
+2025-04-22 22:09:43,632 - INFO - Inserted 1 records from testfile_15.txt
+2025-04-22 22:09:43,633 - INFO - Moved testfile_15.txt to output directory
+2025-04-22 22:09:44,637 - INFO - Processing file: testfile_16.txt
+2025-04-22 22:09:44,675 - INFO - Inserted 1 records from testfile_16.txt
+2025-04-22 22:09:44,679 - INFO - Moved testfile_16.txt to output directory
+2025-04-22 22:09:45,684 - INFO - Processing file: testfile_17.txt
+2025-04-22 22:09:45,732 - INFO - Inserted 1 records from testfile_17.txt
+2025-04-22 22:09:45,736 - INFO - Moved testfile_17.txt to output directory
+2025-04-22 22:09:46,742 - INFO - Processing file: testfile_18.txt
+2025-04-22 22:09:46,786 - INFO - Inserted 1 records from testfile_18.txt
+2025-04-22 22:09:46,788 - INFO - Moved testfile_18.txt to output directory
+2025-04-22 22:09:47,796 - INFO - Processing file: testfile_19.txt
+2025-04-22 22:09:47,877 - INFO - Inserted 1 records from testfile_19.txt
+2025-04-22 22:09:47,877 - INFO - Moved testfile_19.txt to output directory
+2025-04-22 22:09:48,887 - INFO - Processing file: testfile_20.txt
+2025-04-22 22:09:48,936 - INFO - Inserted 1 records from testfile_20.txt
+2025-04-22 22:09:48,938 - INFO - Moved testfile_20.txt to output directory
+2025-04-22 22:09:49,945 - INFO - Processing file: testfile_21.txt
+2025-04-22 22:09:49,986 - INFO - Inserted 1 records from testfile_21.txt
+2025-04-22 22:09:49,989 - INFO - Moved testfile_21.txt to output directory
+2025-04-22 22:09:50,997 - INFO - Processing file: testfile_22.txt
+2025-04-22 22:09:51,034 - INFO - Inserted 1 records from testfile_22.txt
+2025-04-22 22:09:51,040 - INFO - Moved testfile_22.txt to output directory
+2025-04-22 22:09:52,044 - INFO - Processing file: testfile_23.txt
+2025-04-22 22:09:52,072 - INFO - Inserted 1 records from testfile_23.txt
+2025-04-22 22:09:52,072 - INFO - Moved testfile_23.txt to output directory
+2025-04-22 22:09:53,076 - INFO - Processing file: testfile_24.txt
+2025-04-22 22:09:53,104 - INFO - Inserted 1 records from testfile_24.txt
+2025-04-22 22:09:53,105 - INFO - Moved testfile_24.txt to output directory
+2025-04-22 22:09:54,106 - INFO - Processing file: testfile_25.txt
+2025-04-22 22:09:54,141 - INFO - Inserted 1 records from testfile_25.txt
+2025-04-22 22:09:54,144 - INFO - Moved testfile_25.txt to output directory
+2025-04-22 22:09:55,148 - INFO - Processing file: testfile_26.txt
+2025-04-22 22:09:55,191 - INFO - Inserted 1 records from testfile_26.txt
+2025-04-22 22:09:55,195 - INFO - Moved testfile_26.txt to output directory
+2025-04-22 22:09:56,198 - INFO - Processing file: testfile_27.txt
+2025-04-22 22:09:56,257 - INFO - Inserted 1 records from testfile_27.txt
+2025-04-22 22:09:56,261 - INFO - Moved testfile_27.txt to output directory
+2025-04-22 22:09:57,266 - INFO - Processing file: testfile_28.txt
+2025-04-22 22:09:57,320 - INFO - Inserted 1 records from testfile_28.txt
+2025-04-22 22:09:57,321 - INFO - Moved testfile_28.txt to output directory
+2025-04-22 22:09:58,323 - INFO - Processing file: testfile_29.txt
+2025-04-22 22:09:58,389 - INFO - Inserted 1 records from testfile_29.txt
+2025-04-22 22:09:58,395 - INFO - Moved testfile_29.txt to output directory
+2025-04-22 22:09:59,400 - INFO - Processing file: testfile_30.txt
+2025-04-22 22:09:59,495 - INFO - Inserted 1 records from testfile_30.txt
+2025-04-22 22:09:59,498 - INFO - Moved testfile_30.txt to output directory
+2025-04-22 22:10:00,500 - INFO - Processing file: testfile_31.txt
+2025-04-22 22:10:00,550 - INFO - Inserted 1 records from testfile_31.txt
+2025-04-22 22:10:00,552 - INFO - Moved testfile_31.txt to output directory
+2025-04-22 22:10:01,555 - INFO - Processing file: testfile_32.txt
+2025-04-22 22:10:01,582 - INFO - Inserted 1 records from testfile_32.txt
+2025-04-22 22:10:01,588 - INFO - Moved testfile_32.txt to output directory
+2025-04-22 22:10:02,591 - INFO - Processing file: testfile_33.txt
+2025-04-22 22:10:02,661 - INFO - Inserted 1 records from testfile_33.txt
+2025-04-22 22:10:02,662 - INFO - Moved testfile_33.txt to output directory
+2025-04-22 22:10:03,667 - INFO - Processing file: testfile_34.txt
+2025-04-22 22:10:03,716 - INFO - Inserted 1 records from testfile_34.txt
+2025-04-22 22:10:03,717 - INFO - Moved testfile_34.txt to output directory
+2025-04-22 22:10:04,720 - INFO - Processing file: testfile_35.txt
+2025-04-22 22:10:04,745 - INFO - Inserted 1 records from testfile_35.txt
+2025-04-22 22:10:04,745 - INFO - Moved testfile_35.txt to output directory
+2025-04-22 22:10:05,754 - INFO - Processing file: testfile_36.txt
+2025-04-22 22:10:05,794 - INFO - Inserted 1 records from testfile_36.txt
+2025-04-22 22:10:05,795 - INFO - Moved testfile_36.txt to output directory
+2025-04-22 22:10:06,800 - INFO - Processing file: testfile_37.txt
+2025-04-22 22:10:06,841 - INFO - Inserted 1 records from testfile_37.txt
+2025-04-22 22:10:06,842 - INFO - Moved testfile_37.txt to output directory
+2025-04-22 22:10:07,843 - INFO - Processing file: testfile_38.txt
+2025-04-22 22:10:07,877 - INFO - Inserted 1 records from testfile_38.txt
+2025-04-22 22:10:07,877 - INFO - Moved testfile_38.txt to output directory
+2025-04-22 22:10:08,880 - INFO - Processing file: testfile_39.txt
+2025-04-22 22:10:08,909 - INFO - Inserted 1 records from testfile_39.txt
+2025-04-22 22:10:08,911 - INFO - Moved testfile_39.txt to output directory
+2025-04-22 22:10:09,914 - INFO - Processing file: testfile_40.txt
+2025-04-22 22:10:09,939 - INFO - Inserted 1 records from testfile_40.txt
+2025-04-22 22:10:09,939 - INFO - Moved testfile_40.txt to output directory
+2025-04-22 22:10:10,944 - INFO - Processing file: testfile_41.txt
+2025-04-22 22:10:10,974 - INFO - Inserted 1 records from testfile_41.txt
+2025-04-22 22:10:10,974 - INFO - Moved testfile_41.txt to output directory
+2025-04-22 22:10:11,978 - INFO - Processing file: testfile_42.txt
+2025-04-22 22:10:12,007 - INFO - Inserted 1 records from testfile_42.txt
+2025-04-22 22:10:12,009 - INFO - Moved testfile_42.txt to output directory
+2025-04-22 22:10:13,011 - INFO - Processing file: testfile_43.txt
+2025-04-22 22:10:13,052 - INFO - Inserted 1 records from testfile_43.txt
+2025-04-22 22:10:13,055 - INFO - Moved testfile_43.txt to output directory
+2025-04-22 22:10:14,060 - INFO - Processing file: testfile_44.txt
+2025-04-22 22:10:14,123 - INFO - Inserted 1 records from testfile_44.txt
+2025-04-22 22:10:14,126 - INFO - Moved testfile_44.txt to output directory
+2025-04-22 22:10:15,142 - INFO - Processing file: testfile_45.txt
+2025-04-22 22:10:15,194 - INFO - Inserted 1 records from testfile_45.txt
+2025-04-22 22:10:15,213 - INFO - Moved testfile_45.txt to output directory
+2025-04-22 22:10:16,215 - INFO - Processing file: testfile_46.txt
+2025-04-22 22:10:16,238 - INFO - Inserted 1 records from testfile_46.txt
+2025-04-22 22:10:16,241 - INFO - Moved testfile_46.txt to output directory
+2025-04-22 22:10:17,244 - INFO - Processing file: testfile_47.txt
+2025-04-22 22:10:17,307 - INFO - Inserted 1 records from testfile_47.txt
+2025-04-22 22:10:17,314 - INFO - Moved testfile_47.txt to output directory
+2025-04-22 22:10:18,316 - INFO - Processing file: testfile_48.txt
+2025-04-22 22:10:18,364 - INFO - Inserted 1 records from testfile_48.txt
+2025-04-22 22:10:18,370 - INFO - Moved testfile_48.txt to output directory
+2025-04-22 22:10:19,381 - INFO - Processing file: testfile_49.txt
+2025-04-22 22:10:19,423 - INFO - Inserted 1 records from testfile_49.txt
+2025-04-22 22:10:19,424 - INFO - Moved testfile_49.txt to output directory
+2025-04-22 22:10:20,425 - INFO - Processing file: testfile_50.txt
+2025-04-22 22:10:20,456 - INFO - Inserted 1 records from testfile_50.txt
+2025-04-22 22:10:20,457 - INFO - Moved testfile_50.txt to output directory
+2025-04-22 22:11:15,588 - INFO - Database initialization completed
+2025-04-22 22:11:15,605 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:22:23,511 - INFO - Database initialization completed
+2025-04-22 22:22:23,516 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:25:41,062 - INFO - Processing file: testfile_1.txt
+2025-04-22 22:25:41,096 - INFO - Inserted 1 records from testfile_1.txt
+2025-04-22 22:25:41,099 - INFO - Moved testfile_1.txt to output directory
+2025-04-22 22:25:42,105 - INFO - Processing file: testfile_2.txt
+2025-04-22 22:25:42,142 - INFO - Inserted 1 records from testfile_2.txt
+2025-04-22 22:25:42,146 - INFO - Moved testfile_2.txt to output directory
+2025-04-22 22:25:43,152 - INFO - Processing file: testfile_3.txt
+2025-04-22 22:25:43,186 - INFO - Inserted 1 records from testfile_3.txt
+2025-04-22 22:25:43,188 - INFO - Moved testfile_3.txt to output directory
+2025-04-22 22:25:44,194 - INFO - Processing file: testfile_4.txt
+2025-04-22 22:25:44,229 - INFO - Inserted 1 records from testfile_4.txt
+2025-04-22 22:25:44,229 - INFO - Moved testfile_4.txt to output directory
+2025-04-22 22:25:45,237 - INFO - Processing file: testfile_5.txt
+2025-04-22 22:25:45,273 - INFO - Inserted 1 records from testfile_5.txt
+2025-04-22 22:25:45,274 - INFO - Moved testfile_5.txt to output directory
+2025-04-22 22:25:46,276 - INFO - Processing file: testfile_6.txt
+2025-04-22 22:25:46,338 - INFO - Inserted 1 records from testfile_6.txt
+2025-04-22 22:25:46,338 - INFO - Moved testfile_6.txt to output directory
+2025-04-22 22:25:47,342 - INFO - Processing file: testfile_7.txt
+2025-04-22 22:25:47,376 - INFO - Inserted 1 records from testfile_7.txt
+2025-04-22 22:25:47,376 - INFO - Moved testfile_7.txt to output directory
+2025-04-22 22:25:48,383 - INFO - Processing file: testfile_8.txt
+2025-04-22 22:25:48,420 - INFO - Inserted 1 records from testfile_8.txt
+2025-04-22 22:25:48,420 - INFO - Moved testfile_8.txt to output directory
+2025-04-22 22:25:49,422 - INFO - Processing file: testfile_9.txt
+2025-04-22 22:25:49,473 - INFO - Inserted 1 records from testfile_9.txt
+2025-04-22 22:25:49,473 - INFO - Moved testfile_9.txt to output directory
+2025-04-22 22:25:50,476 - INFO - Processing file: testfile_10.txt
+2025-04-22 22:25:50,518 - INFO - Inserted 1 records from testfile_10.txt
+2025-04-22 22:25:50,518 - INFO - Moved testfile_10.txt to output directory
+2025-04-22 22:25:51,529 - INFO - Processing file: testfile_11.txt
+2025-04-22 22:25:51,580 - INFO - Inserted 1 records from testfile_11.txt
+2025-04-22 22:25:51,584 - INFO - Moved testfile_11.txt to output directory
+2025-04-22 22:25:52,591 - INFO - Processing file: testfile_12.txt
+2025-04-22 22:25:52,718 - INFO - Inserted 1 records from testfile_12.txt
+2025-04-22 22:25:52,720 - INFO - Moved testfile_12.txt to output directory
+2025-04-22 22:25:53,728 - INFO - Processing file: testfile_13.txt
+2025-04-22 22:25:53,774 - INFO - Inserted 1 records from testfile_13.txt
+2025-04-22 22:25:53,774 - INFO - Moved testfile_13.txt to output directory
+2025-04-22 22:25:54,780 - INFO - Processing file: testfile_14.txt
+2025-04-22 22:25:54,846 - INFO - Inserted 1 records from testfile_14.txt
+2025-04-22 22:25:54,846 - INFO - Moved testfile_14.txt to output directory
+2025-04-22 22:25:55,850 - INFO - Processing file: testfile_15.txt
+2025-04-22 22:25:55,906 - INFO - Inserted 1 records from testfile_15.txt
+2025-04-22 22:25:55,907 - INFO - Moved testfile_15.txt to output directory
+2025-04-22 22:25:56,908 - INFO - Processing file: testfile_16.txt
+2025-04-22 22:25:56,936 - INFO - Inserted 1 records from testfile_16.txt
+2025-04-22 22:25:56,938 - INFO - Moved testfile_16.txt to output directory
+2025-04-22 22:25:57,943 - INFO - Processing file: testfile_17.txt
+2025-04-22 22:25:57,994 - INFO - Inserted 1 records from testfile_17.txt
+2025-04-22 22:25:57,998 - INFO - Moved testfile_17.txt to output directory
+2025-04-22 22:25:59,006 - INFO - Processing file: testfile_18.txt
+2025-04-22 22:25:59,085 - INFO - Inserted 1 records from testfile_18.txt
+2025-04-22 22:25:59,087 - INFO - Moved testfile_18.txt to output directory
+2025-04-22 22:26:00,090 - INFO - Processing file: testfile_19.txt
+2025-04-22 22:26:00,135 - INFO - Inserted 1 records from testfile_19.txt
+2025-04-22 22:26:00,136 - INFO - Moved testfile_19.txt to output directory
+2025-04-22 22:26:01,139 - INFO - Processing file: testfile_20.txt
+2025-04-22 22:26:01,206 - INFO - Inserted 1 records from testfile_20.txt
+2025-04-22 22:26:01,209 - INFO - Moved testfile_20.txt to output directory
+2025-04-22 22:26:02,215 - INFO - Processing file: testfile_21.txt
+2025-04-22 22:26:02,257 - INFO - Inserted 1 records from testfile_21.txt
+2025-04-22 22:26:02,258 - INFO - Moved testfile_21.txt to output directory
+2025-04-22 22:26:03,260 - INFO - Processing file: testfile_22.txt
+2025-04-22 22:26:03,298 - INFO - Inserted 1 records from testfile_22.txt
+2025-04-22 22:26:03,300 - INFO - Moved testfile_22.txt to output directory
+2025-04-22 22:26:04,301 - INFO - Processing file: testfile_23.txt
+2025-04-22 22:26:04,335 - INFO - Inserted 1 records from testfile_23.txt
+2025-04-22 22:26:04,338 - INFO - Moved testfile_23.txt to output directory
+2025-04-22 22:26:05,346 - INFO - Processing file: testfile_24.txt
+2025-04-22 22:26:05,386 - INFO - Inserted 1 records from testfile_24.txt
+2025-04-22 22:26:05,388 - INFO - Moved testfile_24.txt to output directory
+2025-04-22 22:26:06,394 - INFO - Processing file: testfile_25.txt
+2025-04-22 22:26:06,446 - INFO - Inserted 1 records from testfile_25.txt
+2025-04-22 22:26:06,448 - INFO - Moved testfile_25.txt to output directory
+2025-04-22 22:26:07,455 - INFO - Processing file: testfile_26.txt
+2025-04-22 22:26:07,491 - INFO - Inserted 1 records from testfile_26.txt
+2025-04-22 22:26:07,500 - INFO - Moved testfile_26.txt to output directory
+2025-04-22 22:26:08,506 - INFO - Processing file: testfile_27.txt
+2025-04-22 22:26:08,539 - INFO - Inserted 1 records from testfile_27.txt
+2025-04-22 22:26:08,540 - INFO - Moved testfile_27.txt to output directory
+2025-04-22 22:26:09,544 - INFO - Processing file: testfile_28.txt
+2025-04-22 22:26:09,582 - INFO - Inserted 1 records from testfile_28.txt
+2025-04-22 22:26:09,586 - INFO - Moved testfile_28.txt to output directory
+2025-04-22 22:26:10,590 - INFO - Processing file: testfile_29.txt
+2025-04-22 22:26:10,618 - INFO - Inserted 1 records from testfile_29.txt
+2025-04-22 22:26:10,624 - INFO - Moved testfile_29.txt to output directory
+2025-04-22 22:26:11,627 - INFO - Processing file: testfile_30.txt
+2025-04-22 22:26:11,665 - INFO - Inserted 1 records from testfile_30.txt
+2025-04-22 22:26:11,665 - INFO - Moved testfile_30.txt to output directory
+2025-04-22 22:26:12,671 - INFO - Processing file: testfile_31.txt
+2025-04-22 22:26:12,709 - INFO - Inserted 1 records from testfile_31.txt
+2025-04-22 22:26:12,714 - INFO - Moved testfile_31.txt to output directory
+2025-04-22 22:26:13,716 - INFO - Processing file: testfile_32.txt
+2025-04-22 22:26:13,792 - INFO - Inserted 1 records from testfile_32.txt
+2025-04-22 22:26:13,793 - INFO - Moved testfile_32.txt to output directory
+2025-04-22 22:26:14,796 - INFO - Processing file: testfile_33.txt
+2025-04-22 22:26:14,829 - INFO - Inserted 1 records from testfile_33.txt
+2025-04-22 22:26:14,832 - INFO - Moved testfile_33.txt to output directory
+2025-04-22 22:26:15,843 - INFO - Processing file: testfile_34.txt
+2025-04-22 22:26:15,916 - INFO - Inserted 1 records from testfile_34.txt
+2025-04-22 22:26:15,918 - INFO - Moved testfile_34.txt to output directory
+2025-04-22 22:26:16,920 - INFO - Processing file: testfile_35.txt
+2025-04-22 22:26:16,969 - INFO - Inserted 1 records from testfile_35.txt
+2025-04-22 22:26:16,972 - INFO - Moved testfile_35.txt to output directory
+2025-04-22 22:26:17,977 - INFO - Processing file: testfile_36.txt
+2025-04-22 22:26:18,028 - INFO - Inserted 1 records from testfile_36.txt
+2025-04-22 22:26:18,029 - INFO - Moved testfile_36.txt to output directory
+2025-04-22 22:26:19,039 - INFO - Processing file: testfile_37.txt
+2025-04-22 22:26:19,071 - INFO - Inserted 1 records from testfile_37.txt
+2025-04-22 22:26:19,073 - INFO - Moved testfile_37.txt to output directory
+2025-04-22 22:26:20,074 - INFO - Processing file: testfile_38.txt
+2025-04-22 22:26:20,104 - INFO - Inserted 1 records from testfile_38.txt
+2025-04-22 22:26:20,105 - INFO - Moved testfile_38.txt to output directory
+2025-04-22 22:26:21,106 - INFO - Processing file: testfile_39.txt
+2025-04-22 22:26:21,212 - INFO - Inserted 1 records from testfile_39.txt
+2025-04-22 22:26:21,217 - INFO - Moved testfile_39.txt to output directory
+2025-04-22 22:26:22,222 - INFO - Processing file: testfile_40.txt
+2025-04-22 22:26:22,267 - INFO - Inserted 1 records from testfile_40.txt
+2025-04-22 22:26:22,267 - INFO - Moved testfile_40.txt to output directory
+2025-04-22 22:26:23,271 - INFO - Processing file: testfile_41.txt
+2025-04-22 22:26:23,299 - INFO - Inserted 1 records from testfile_41.txt
+2025-04-22 22:26:23,303 - INFO - Moved testfile_41.txt to output directory
+2025-04-22 22:26:24,306 - INFO - Processing file: testfile_42.txt
+2025-04-22 22:26:24,461 - INFO - Inserted 1 records from testfile_42.txt
+2025-04-22 22:26:24,462 - INFO - Moved testfile_42.txt to output directory
+2025-04-22 22:26:25,463 - INFO - Processing file: testfile_43.txt
+2025-04-22 22:26:25,504 - INFO - Inserted 1 records from testfile_43.txt
+2025-04-22 22:26:25,504 - INFO - Moved testfile_43.txt to output directory
+2025-04-22 22:26:26,507 - INFO - Processing file: testfile_44.txt
+2025-04-22 22:26:26,541 - INFO - Inserted 1 records from testfile_44.txt
+2025-04-22 22:26:26,541 - INFO - Moved testfile_44.txt to output directory
+2025-04-22 22:26:27,549 - INFO - Processing file: testfile_45.txt
+2025-04-22 22:26:27,582 - INFO - Inserted 1 records from testfile_45.txt
+2025-04-22 22:26:27,583 - INFO - Moved testfile_45.txt to output directory
+2025-04-22 22:26:28,589 - INFO - Processing file: testfile_46.txt
+2025-04-22 22:26:28,648 - INFO - Inserted 1 records from testfile_46.txt
+2025-04-22 22:26:28,652 - INFO - Moved testfile_46.txt to output directory
+2025-04-22 22:26:29,653 - INFO - Processing file: testfile_47.txt
+2025-04-22 22:26:29,696 - INFO - Inserted 1 records from testfile_47.txt
+2025-04-22 22:26:29,699 - INFO - Moved testfile_47.txt to output directory
+2025-04-22 22:26:30,703 - INFO - Processing file: testfile_48.txt
+2025-04-22 22:26:30,738 - INFO - Inserted 1 records from testfile_48.txt
+2025-04-22 22:26:30,740 - INFO - Moved testfile_48.txt to output directory
+2025-04-22 22:26:31,741 - INFO - Processing file: testfile_49.txt
+2025-04-22 22:26:31,771 - INFO - Inserted 1 records from testfile_49.txt
+2025-04-22 22:26:31,773 - INFO - Moved testfile_49.txt to output directory
+2025-04-22 22:26:32,781 - INFO - Processing file: testfile_50.txt
+2025-04-22 22:26:32,815 - INFO - Inserted 1 records from testfile_50.txt
+2025-04-22 22:26:32,817 - INFO - Moved testfile_50.txt to output directory
+2025-04-22 22:27:22,637 - INFO - Processing file: testfile_1.txt
+2025-04-22 22:27:22,673 - INFO - Inserted 1 records from testfile_1.txt
+2025-04-22 22:27:22,679 - INFO - Moved testfile_1.txt to output directory
+2025-04-22 22:27:23,692 - INFO - Processing file: testfile_2.txt
+2025-04-22 22:27:23,734 - INFO - Inserted 1 records from testfile_2.txt
+2025-04-22 22:27:23,738 - INFO - Moved testfile_2.txt to output directory
+2025-04-22 22:27:24,744 - INFO - Processing file: testfile_3.txt
+2025-04-22 22:27:24,778 - INFO - Inserted 1 records from testfile_3.txt
+2025-04-22 22:27:24,778 - INFO - Moved testfile_3.txt to output directory
+2025-04-22 22:27:25,782 - INFO - Processing file: testfile_4.txt
+2025-04-22 22:27:25,818 - INFO - Inserted 1 records from testfile_4.txt
+2025-04-22 22:27:25,823 - INFO - Moved testfile_4.txt to output directory
+2025-04-22 22:27:26,831 - INFO - Processing file: testfile_5.txt
+2025-04-22 22:27:26,928 - INFO - Inserted 1 records from testfile_5.txt
+2025-04-22 22:27:26,929 - INFO - Moved testfile_5.txt to output directory
+2025-04-22 22:27:27,934 - INFO - Processing file: testfile_6.txt
+2025-04-22 22:27:27,987 - INFO - Inserted 1 records from testfile_6.txt
+2025-04-22 22:27:27,990 - INFO - Moved testfile_6.txt to output directory
+2025-04-22 22:27:28,992 - INFO - Processing file: testfile_7.txt
+2025-04-22 22:27:29,048 - INFO - Inserted 1 records from testfile_7.txt
+2025-04-22 22:27:29,053 - INFO - Moved testfile_7.txt to output directory
+2025-04-22 22:27:30,060 - INFO - Processing file: testfile_8.txt
+2025-04-22 22:27:30,098 - INFO - Inserted 1 records from testfile_8.txt
+2025-04-22 22:27:30,100 - INFO - Moved testfile_8.txt to output directory
+2025-04-22 22:27:31,107 - INFO - Processing file: testfile_9.txt
+2025-04-22 22:27:31,145 - INFO - Inserted 1 records from testfile_9.txt
+2025-04-22 22:27:31,147 - INFO - Moved testfile_9.txt to output directory
+2025-04-22 22:27:32,149 - INFO - Processing file: testfile_10.txt
+2025-04-22 22:27:32,199 - INFO - Inserted 1 records from testfile_10.txt
+2025-04-22 22:27:32,202 - INFO - Moved testfile_10.txt to output directory
+2025-04-22 22:27:33,206 - INFO - Processing file: testfile_11.txt
+2025-04-22 22:27:33,249 - INFO - Inserted 1 records from testfile_11.txt
+2025-04-22 22:27:33,250 - INFO - Moved testfile_11.txt to output directory
+2025-04-22 22:27:34,253 - INFO - Processing file: testfile_12.txt
+2025-04-22 22:27:34,293 - INFO - Inserted 1 records from testfile_12.txt
+2025-04-22 22:27:34,295 - INFO - Moved testfile_12.txt to output directory
+2025-04-22 22:27:35,296 - INFO - Processing file: testfile_13.txt
+2025-04-22 22:27:35,340 - INFO - Inserted 1 records from testfile_13.txt
+2025-04-22 22:27:35,340 - INFO - Moved testfile_13.txt to output directory
+2025-04-22 22:27:36,344 - INFO - Processing file: testfile_14.txt
+2025-04-22 22:27:36,379 - INFO - Inserted 1 records from testfile_14.txt
+2025-04-22 22:27:36,380 - INFO - Moved testfile_14.txt to output directory
+2025-04-22 22:27:37,384 - INFO - Processing file: testfile_15.txt
+2025-04-22 22:27:37,413 - INFO - Inserted 1 records from testfile_15.txt
+2025-04-22 22:27:37,413 - INFO - Moved testfile_15.txt to output directory
+2025-04-22 22:27:38,418 - INFO - Processing file: testfile_16.txt
+2025-04-22 22:27:38,460 - INFO - Inserted 1 records from testfile_16.txt
+2025-04-22 22:27:38,460 - INFO - Moved testfile_16.txt to output directory
+2025-04-22 22:27:39,469 - INFO - Processing file: testfile_17.txt
+2025-04-22 22:27:39,503 - INFO - Inserted 1 records from testfile_17.txt
+2025-04-22 22:27:39,503 - INFO - Moved testfile_17.txt to output directory
+2025-04-22 22:27:40,506 - INFO - Processing file: testfile_18.txt
+2025-04-22 22:27:40,549 - INFO - Inserted 1 records from testfile_18.txt
+2025-04-22 22:27:40,549 - INFO - Moved testfile_18.txt to output directory
+2025-04-22 22:27:41,559 - INFO - Processing file: testfile_19.txt
+2025-04-22 22:27:41,588 - INFO - Inserted 1 records from testfile_19.txt
+2025-04-22 22:27:41,589 - INFO - Moved testfile_19.txt to output directory
+2025-04-22 22:27:42,590 - INFO - Processing file: testfile_20.txt
+2025-04-22 22:27:42,617 - INFO - Inserted 1 records from testfile_20.txt
+2025-04-22 22:27:42,618 - INFO - Moved testfile_20.txt to output directory
+2025-04-22 22:27:43,621 - INFO - Processing file: testfile_21.txt
+2025-04-22 22:27:43,660 - INFO - Inserted 1 records from testfile_21.txt
+2025-04-22 22:27:43,663 - INFO - Moved testfile_21.txt to output directory
+2025-04-22 22:27:44,667 - INFO - Processing file: testfile_22.txt
+2025-04-22 22:27:44,714 - INFO - Inserted 1 records from testfile_22.txt
+2025-04-22 22:27:44,717 - INFO - Moved testfile_22.txt to output directory
+2025-04-22 22:27:45,722 - INFO - Processing file: testfile_23.txt
+2025-04-22 22:27:45,777 - INFO - Inserted 1 records from testfile_23.txt
+2025-04-22 22:27:45,778 - INFO - Moved testfile_23.txt to output directory
+2025-04-22 22:27:46,783 - INFO - Processing file: testfile_24.txt
+2025-04-22 22:27:46,817 - INFO - Inserted 1 records from testfile_24.txt
+2025-04-22 22:27:46,820 - INFO - Moved testfile_24.txt to output directory
+2025-04-22 22:27:47,824 - INFO - Processing file: testfile_25.txt
+2025-04-22 22:27:47,874 - INFO - Inserted 1 records from testfile_25.txt
+2025-04-22 22:27:47,875 - INFO - Moved testfile_25.txt to output directory
+2025-04-22 22:27:48,880 - INFO - Processing file: testfile_26.txt
+2025-04-22 22:27:48,933 - INFO - Inserted 1 records from testfile_26.txt
+2025-04-22 22:27:48,933 - INFO - Moved testfile_26.txt to output directory
+2025-04-22 22:27:49,935 - INFO - Processing file: testfile_27.txt
+2025-04-22 22:27:49,975 - INFO - Inserted 1 records from testfile_27.txt
+2025-04-22 22:27:49,979 - INFO - Moved testfile_27.txt to output directory
+2025-04-22 22:27:50,984 - INFO - Processing file: testfile_28.txt
+2025-04-22 22:27:51,051 - INFO - Inserted 1 records from testfile_28.txt
+2025-04-22 22:27:51,052 - INFO - Moved testfile_28.txt to output directory
+2025-04-22 22:27:52,056 - INFO - Processing file: testfile_29.txt
+2025-04-22 22:27:52,098 - INFO - Inserted 1 records from testfile_29.txt
+2025-04-22 22:27:52,098 - INFO - Moved testfile_29.txt to output directory
+2025-04-22 22:27:53,101 - INFO - Processing file: testfile_30.txt
+2025-04-22 22:27:53,180 - INFO - Inserted 1 records from testfile_30.txt
+2025-04-22 22:27:53,181 - INFO - Moved testfile_30.txt to output directory
+2025-04-22 22:27:54,184 - INFO - Processing file: testfile_31.txt
+2025-04-22 22:27:54,252 - INFO - Inserted 1 records from testfile_31.txt
+2025-04-22 22:27:54,255 - INFO - Moved testfile_31.txt to output directory
+2025-04-22 22:27:55,258 - INFO - Processing file: testfile_32.txt
+2025-04-22 22:27:55,282 - INFO - Inserted 1 records from testfile_32.txt
+2025-04-22 22:27:55,282 - INFO - Moved testfile_32.txt to output directory
+2025-04-22 22:27:56,286 - INFO - Processing file: testfile_33.txt
+2025-04-22 22:27:56,312 - INFO - Inserted 1 records from testfile_33.txt
+2025-04-22 22:27:56,313 - INFO - Moved testfile_33.txt to output directory
+2025-04-22 22:27:57,316 - INFO - Processing file: testfile_34.txt
+2025-04-22 22:27:57,339 - INFO - Inserted 1 records from testfile_34.txt
+2025-04-22 22:27:57,341 - INFO - Moved testfile_34.txt to output directory
+2025-04-22 22:27:58,344 - INFO - Processing file: testfile_35.txt
+2025-04-22 22:27:58,491 - INFO - Inserted 1 records from testfile_35.txt
+2025-04-22 22:27:58,512 - INFO - Moved testfile_35.txt to output directory
+2025-04-22 22:27:59,516 - INFO - Processing file: testfile_36.txt
+2025-04-22 22:27:59,563 - INFO - Inserted 1 records from testfile_36.txt
+2025-04-22 22:27:59,563 - INFO - Moved testfile_36.txt to output directory
+2025-04-22 22:28:00,564 - INFO - Processing file: testfile_37.txt
+2025-04-22 22:28:00,628 - INFO - Inserted 1 records from testfile_37.txt
+2025-04-22 22:28:00,628 - INFO - Moved testfile_37.txt to output directory
+2025-04-22 22:28:01,633 - INFO - Processing file: testfile_38.txt
+2025-04-22 22:28:01,684 - INFO - Inserted 1 records from testfile_38.txt
+2025-04-22 22:28:01,686 - INFO - Moved testfile_38.txt to output directory
+2025-04-22 22:28:02,690 - INFO - Processing file: testfile_39.txt
+2025-04-22 22:28:02,731 - INFO - Inserted 1 records from testfile_39.txt
+2025-04-22 22:28:02,732 - INFO - Moved testfile_39.txt to output directory
+2025-04-22 22:28:03,736 - INFO - Processing file: testfile_40.txt
+2025-04-22 22:28:03,776 - INFO - Inserted 1 records from testfile_40.txt
+2025-04-22 22:28:03,785 - INFO - Moved testfile_40.txt to output directory
+2025-04-22 22:28:04,787 - INFO - Processing file: testfile_41.txt
+2025-04-22 22:28:04,822 - INFO - Inserted 1 records from testfile_41.txt
+2025-04-22 22:28:04,826 - INFO - Moved testfile_41.txt to output directory
+2025-04-22 22:28:05,829 - INFO - Processing file: testfile_42.txt
+2025-04-22 22:28:05,864 - INFO - Inserted 1 records from testfile_42.txt
+2025-04-22 22:28:05,867 - INFO - Moved testfile_42.txt to output directory
+2025-04-22 22:28:06,869 - INFO - Processing file: testfile_43.txt
+2025-04-22 22:28:06,909 - INFO - Inserted 1 records from testfile_43.txt
+2025-04-22 22:28:06,910 - INFO - Moved testfile_43.txt to output directory
+2025-04-22 22:28:07,913 - INFO - Processing file: testfile_44.txt
+2025-04-22 22:28:07,959 - INFO - Inserted 1 records from testfile_44.txt
+2025-04-22 22:28:07,960 - INFO - Moved testfile_44.txt to output directory
+2025-04-22 22:28:08,963 - INFO - Processing file: testfile_45.txt
+2025-04-22 22:28:09,017 - INFO - Inserted 1 records from testfile_45.txt
+2025-04-22 22:28:09,017 - INFO - Moved testfile_45.txt to output directory
+2025-04-22 22:28:10,026 - INFO - Processing file: testfile_46.txt
+2025-04-22 22:28:10,074 - INFO - Inserted 1 records from testfile_46.txt
+2025-04-22 22:28:10,079 - INFO - Moved testfile_46.txt to output directory
+2025-04-22 22:28:11,080 - INFO - Processing file: testfile_47.txt
+2025-04-22 22:28:11,110 - INFO - Inserted 1 records from testfile_47.txt
+2025-04-22 22:28:11,112 - INFO - Moved testfile_47.txt to output directory
+2025-04-22 22:28:12,115 - INFO - Processing file: testfile_48.txt
+2025-04-22 22:28:12,151 - INFO - Inserted 1 records from testfile_48.txt
+2025-04-22 22:28:12,156 - INFO - Moved testfile_48.txt to output directory
+2025-04-22 22:28:13,160 - INFO - Processing file: testfile_49.txt
+2025-04-22 22:28:13,198 - INFO - Inserted 1 records from testfile_49.txt
+2025-04-22 22:28:13,203 - INFO - Moved testfile_49.txt to output directory
+2025-04-22 22:28:14,204 - INFO - Processing file: testfile_50.txt
+2025-04-22 22:28:14,248 - INFO - Inserted 1 records from testfile_50.txt
+2025-04-22 22:28:14,251 - INFO - Moved testfile_50.txt to output directory
+2025-04-22 22:36:34,876 - INFO - Database initialization completed
+2025-04-22 22:36:34,883 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 23:20:15,217 - INFO - Processing file: test.txt
+2025-04-22 23:20:15,226 - INFO - Processing file: test.txt
+2025-04-22 23:20:15,369 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:15,376 - INFO - Moved test.txt to output directory
+2025-04-22 23:20:15,382 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:15,382 - ERROR - Error processing test.txt: [Errno 2] No such file or directory: '/home/stilyan/machine_app/input/test.txt' -> '/home/stilyan/machine_app/output/test.txt'
+2025-04-22 23:20:16,923 - INFO - Processing file: test.txt
+2025-04-22 23:20:16,923 - INFO - Processing file: test.txt
+2025-04-22 23:20:16,969 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:16,973 - INFO - Moved test.txt to output directory
+2025-04-22 23:20:16,983 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:16,985 - ERROR - Error processing test.txt: [Errno 2] No such file or directory: '/home/stilyan/machine_app/input/test.txt' -> '/home/stilyan/machine_app/output/test.txt'
