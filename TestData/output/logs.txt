@@ -1,0 +1,2089 @@
+2025-04-22 21:54:06,933 - INFO - Database initialization completed
+2025-04-22 21:54:06,944 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:02:24,423 - INFO - Database initialization completed
+2025-04-22 22:02:24,425 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:09:28,763 - INFO - Processing file: testfile_1.txt
+2025-04-22 22:09:28,807 - INFO - Inserted 1 records from testfile_1.txt
+2025-04-22 22:09:28,817 - INFO - Moved testfile_1.txt to output directory
+2025-04-22 22:09:29,824 - INFO - Processing file: testfile_2.txt
+2025-04-22 22:09:29,892 - INFO - Inserted 1 records from testfile_2.txt
+2025-04-22 22:09:29,892 - INFO - Moved testfile_2.txt to output directory
+2025-04-22 22:09:30,898 - INFO - Processing file: testfile_3.txt
+2025-04-22 22:09:30,952 - INFO - Inserted 1 records from testfile_3.txt
+2025-04-22 22:09:30,954 - INFO - Moved testfile_3.txt to output directory
+2025-04-22 22:09:31,957 - INFO - Processing file: testfile_4.txt
+2025-04-22 22:09:32,024 - INFO - Inserted 1 records from testfile_4.txt
+2025-04-22 22:09:32,027 - INFO - Moved testfile_4.txt to output directory
+2025-04-22 22:09:33,031 - INFO - Processing file: testfile_5.txt
+2025-04-22 22:09:33,086 - INFO - Inserted 1 records from testfile_5.txt
+2025-04-22 22:09:33,092 - INFO - Moved testfile_5.txt to output directory
+2025-04-22 22:09:34,095 - INFO - Processing file: testfile_6.txt
+2025-04-22 22:09:34,151 - INFO - Inserted 1 records from testfile_6.txt
+2025-04-22 22:09:34,152 - INFO - Moved testfile_6.txt to output directory
+2025-04-22 22:09:35,156 - INFO - Processing file: testfile_7.txt
+2025-04-22 22:09:35,197 - INFO - Inserted 1 records from testfile_7.txt
+2025-04-22 22:09:35,198 - INFO - Moved testfile_7.txt to output directory
+2025-04-22 22:09:36,204 - INFO - Processing file: testfile_8.txt
+2025-04-22 22:09:36,264 - INFO - Inserted 1 records from testfile_8.txt
+2025-04-22 22:09:36,264 - INFO - Moved testfile_8.txt to output directory
+2025-04-22 22:09:37,267 - INFO - Processing file: testfile_9.txt
+2025-04-22 22:09:37,308 - INFO - Inserted 1 records from testfile_9.txt
+2025-04-22 22:09:37,309 - INFO - Moved testfile_9.txt to output directory
+2025-04-22 22:09:38,310 - INFO - Processing file: testfile_10.txt
+2025-04-22 22:09:38,366 - INFO - Inserted 1 records from testfile_10.txt
+2025-04-22 22:09:38,369 - INFO - Moved testfile_10.txt to output directory
+2025-04-22 22:09:39,375 - INFO - Processing file: testfile_11.txt
+2025-04-22 22:09:39,422 - INFO - Inserted 1 records from testfile_11.txt
+2025-04-22 22:09:39,424 - INFO - Moved testfile_11.txt to output directory
+2025-04-22 22:09:40,431 - INFO - Processing file: testfile_12.txt
+2025-04-22 22:09:40,469 - INFO - Inserted 1 records from testfile_12.txt
+2025-04-22 22:09:40,471 - INFO - Moved testfile_12.txt to output directory
+2025-04-22 22:09:41,476 - INFO - Processing file: testfile_13.txt
+2025-04-22 22:09:41,540 - INFO - Inserted 1 records from testfile_13.txt
+2025-04-22 22:09:41,545 - INFO - Moved testfile_13.txt to output directory
+2025-04-22 22:09:42,549 - INFO - Processing file: testfile_14.txt
+2025-04-22 22:09:42,591 - INFO - Inserted 1 records from testfile_14.txt
+2025-04-22 22:09:42,591 - INFO - Moved testfile_14.txt to output directory
+2025-04-22 22:09:43,593 - INFO - Processing file: testfile_15.txt
+2025-04-22 22:09:43,632 - INFO - Inserted 1 records from testfile_15.txt
+2025-04-22 22:09:43,633 - INFO - Moved testfile_15.txt to output directory
+2025-04-22 22:09:44,637 - INFO - Processing file: testfile_16.txt
+2025-04-22 22:09:44,675 - INFO - Inserted 1 records from testfile_16.txt
+2025-04-22 22:09:44,679 - INFO - Moved testfile_16.txt to output directory
+2025-04-22 22:09:45,684 - INFO - Processing file: testfile_17.txt
+2025-04-22 22:09:45,732 - INFO - Inserted 1 records from testfile_17.txt
+2025-04-22 22:09:45,736 - INFO - Moved testfile_17.txt to output directory
+2025-04-22 22:09:46,742 - INFO - Processing file: testfile_18.txt
+2025-04-22 22:09:46,786 - INFO - Inserted 1 records from testfile_18.txt
+2025-04-22 22:09:46,788 - INFO - Moved testfile_18.txt to output directory
+2025-04-22 22:09:47,796 - INFO - Processing file: testfile_19.txt
+2025-04-22 22:09:47,877 - INFO - Inserted 1 records from testfile_19.txt
+2025-04-22 22:09:47,877 - INFO - Moved testfile_19.txt to output directory
+2025-04-22 22:09:48,887 - INFO - Processing file: testfile_20.txt
+2025-04-22 22:09:48,936 - INFO - Inserted 1 records from testfile_20.txt
+2025-04-22 22:09:48,938 - INFO - Moved testfile_20.txt to output directory
+2025-04-22 22:09:49,945 - INFO - Processing file: testfile_21.txt
+2025-04-22 22:09:49,986 - INFO - Inserted 1 records from testfile_21.txt
+2025-04-22 22:09:49,989 - INFO - Moved testfile_21.txt to output directory
+2025-04-22 22:09:50,997 - INFO - Processing file: testfile_22.txt
+2025-04-22 22:09:51,034 - INFO - Inserted 1 records from testfile_22.txt
+2025-04-22 22:09:51,040 - INFO - Moved testfile_22.txt to output directory
+2025-04-22 22:09:52,044 - INFO - Processing file: testfile_23.txt
+2025-04-22 22:09:52,072 - INFO - Inserted 1 records from testfile_23.txt
+2025-04-22 22:09:52,072 - INFO - Moved testfile_23.txt to output directory
+2025-04-22 22:09:53,076 - INFO - Processing file: testfile_24.txt
+2025-04-22 22:09:53,104 - INFO - Inserted 1 records from testfile_24.txt
+2025-04-22 22:09:53,105 - INFO - Moved testfile_24.txt to output directory
+2025-04-22 22:09:54,106 - INFO - Processing file: testfile_25.txt
+2025-04-22 22:09:54,141 - INFO - Inserted 1 records from testfile_25.txt
+2025-04-22 22:09:54,144 - INFO - Moved testfile_25.txt to output directory
+2025-04-22 22:09:55,148 - INFO - Processing file: testfile_26.txt
+2025-04-22 22:09:55,191 - INFO - Inserted 1 records from testfile_26.txt
+2025-04-22 22:09:55,195 - INFO - Moved testfile_26.txt to output directory
+2025-04-22 22:09:56,198 - INFO - Processing file: testfile_27.txt
+2025-04-22 22:09:56,257 - INFO - Inserted 1 records from testfile_27.txt
+2025-04-22 22:09:56,261 - INFO - Moved testfile_27.txt to output directory
+2025-04-22 22:09:57,266 - INFO - Processing file: testfile_28.txt
+2025-04-22 22:09:57,320 - INFO - Inserted 1 records from testfile_28.txt
+2025-04-22 22:09:57,321 - INFO - Moved testfile_28.txt to output directory
+2025-04-22 22:09:58,323 - INFO - Processing file: testfile_29.txt
+2025-04-22 22:09:58,389 - INFO - Inserted 1 records from testfile_29.txt
+2025-04-22 22:09:58,395 - INFO - Moved testfile_29.txt to output directory
+2025-04-22 22:09:59,400 - INFO - Processing file: testfile_30.txt
+2025-04-22 22:09:59,495 - INFO - Inserted 1 records from testfile_30.txt
+2025-04-22 22:09:59,498 - INFO - Moved testfile_30.txt to output directory
+2025-04-22 22:10:00,500 - INFO - Processing file: testfile_31.txt
+2025-04-22 22:10:00,550 - INFO - Inserted 1 records from testfile_31.txt
+2025-04-22 22:10:00,552 - INFO - Moved testfile_31.txt to output directory
+2025-04-22 22:10:01,555 - INFO - Processing file: testfile_32.txt
+2025-04-22 22:10:01,582 - INFO - Inserted 1 records from testfile_32.txt
+2025-04-22 22:10:01,588 - INFO - Moved testfile_32.txt to output directory
+2025-04-22 22:10:02,591 - INFO - Processing file: testfile_33.txt
+2025-04-22 22:10:02,661 - INFO - Inserted 1 records from testfile_33.txt
+2025-04-22 22:10:02,662 - INFO - Moved testfile_33.txt to output directory
+2025-04-22 22:10:03,667 - INFO - Processing file: testfile_34.txt
+2025-04-22 22:10:03,716 - INFO - Inserted 1 records from testfile_34.txt
+2025-04-22 22:10:03,717 - INFO - Moved testfile_34.txt to output directory
+2025-04-22 22:10:04,720 - INFO - Processing file: testfile_35.txt
+2025-04-22 22:10:04,745 - INFO - Inserted 1 records from testfile_35.txt
+2025-04-22 22:10:04,745 - INFO - Moved testfile_35.txt to output directory
+2025-04-22 22:10:05,754 - INFO - Processing file: testfile_36.txt
+2025-04-22 22:10:05,794 - INFO - Inserted 1 records from testfile_36.txt
+2025-04-22 22:10:05,795 - INFO - Moved testfile_36.txt to output directory
+2025-04-22 22:10:06,800 - INFO - Processing file: testfile_37.txt
+2025-04-22 22:10:06,841 - INFO - Inserted 1 records from testfile_37.txt
+2025-04-22 22:10:06,842 - INFO - Moved testfile_37.txt to output directory
+2025-04-22 22:10:07,843 - INFO - Processing file: testfile_38.txt
+2025-04-22 22:10:07,877 - INFO - Inserted 1 records from testfile_38.txt
+2025-04-22 22:10:07,877 - INFO - Moved testfile_38.txt to output directory
+2025-04-22 22:10:08,880 - INFO - Processing file: testfile_39.txt
+2025-04-22 22:10:08,909 - INFO - Inserted 1 records from testfile_39.txt
+2025-04-22 22:10:08,911 - INFO - Moved testfile_39.txt to output directory
+2025-04-22 22:10:09,914 - INFO - Processing file: testfile_40.txt
+2025-04-22 22:10:09,939 - INFO - Inserted 1 records from testfile_40.txt
+2025-04-22 22:10:09,939 - INFO - Moved testfile_40.txt to output directory
+2025-04-22 22:10:10,944 - INFO - Processing file: testfile_41.txt
+2025-04-22 22:10:10,974 - INFO - Inserted 1 records from testfile_41.txt
+2025-04-22 22:10:10,974 - INFO - Moved testfile_41.txt to output directory
+2025-04-22 22:10:11,978 - INFO - Processing file: testfile_42.txt
+2025-04-22 22:10:12,007 - INFO - Inserted 1 records from testfile_42.txt
+2025-04-22 22:10:12,009 - INFO - Moved testfile_42.txt to output directory
+2025-04-22 22:10:13,011 - INFO - Processing file: testfile_43.txt
+2025-04-22 22:10:13,052 - INFO - Inserted 1 records from testfile_43.txt
+2025-04-22 22:10:13,055 - INFO - Moved testfile_43.txt to output directory
+2025-04-22 22:10:14,060 - INFO - Processing file: testfile_44.txt
+2025-04-22 22:10:14,123 - INFO - Inserted 1 records from testfile_44.txt
+2025-04-22 22:10:14,126 - INFO - Moved testfile_44.txt to output directory
+2025-04-22 22:10:15,142 - INFO - Processing file: testfile_45.txt
+2025-04-22 22:10:15,194 - INFO - Inserted 1 records from testfile_45.txt
+2025-04-22 22:10:15,213 - INFO - Moved testfile_45.txt to output directory
+2025-04-22 22:10:16,215 - INFO - Processing file: testfile_46.txt
+2025-04-22 22:10:16,238 - INFO - Inserted 1 records from testfile_46.txt
+2025-04-22 22:10:16,241 - INFO - Moved testfile_46.txt to output directory
+2025-04-22 22:10:17,244 - INFO - Processing file: testfile_47.txt
+2025-04-22 22:10:17,307 - INFO - Inserted 1 records from testfile_47.txt
+2025-04-22 22:10:17,314 - INFO - Moved testfile_47.txt to output directory
+2025-04-22 22:10:18,316 - INFO - Processing file: testfile_48.txt
+2025-04-22 22:10:18,364 - INFO - Inserted 1 records from testfile_48.txt
+2025-04-22 22:10:18,370 - INFO - Moved testfile_48.txt to output directory
+2025-04-22 22:10:19,381 - INFO - Processing file: testfile_49.txt
+2025-04-22 22:10:19,423 - INFO - Inserted 1 records from testfile_49.txt
+2025-04-22 22:10:19,424 - INFO - Moved testfile_49.txt to output directory
+2025-04-22 22:10:20,425 - INFO - Processing file: testfile_50.txt
+2025-04-22 22:10:20,456 - INFO - Inserted 1 records from testfile_50.txt
+2025-04-22 22:10:20,457 - INFO - Moved testfile_50.txt to output directory
+2025-04-22 22:11:15,588 - INFO - Database initialization completed
+2025-04-22 22:11:15,605 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:22:23,511 - INFO - Database initialization completed
+2025-04-22 22:22:23,516 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 22:25:41,062 - INFO - Processing file: testfile_1.txt
+2025-04-22 22:25:41,096 - INFO - Inserted 1 records from testfile_1.txt
+2025-04-22 22:25:41,099 - INFO - Moved testfile_1.txt to output directory
+2025-04-22 22:25:42,105 - INFO - Processing file: testfile_2.txt
+2025-04-22 22:25:42,142 - INFO - Inserted 1 records from testfile_2.txt
+2025-04-22 22:25:42,146 - INFO - Moved testfile_2.txt to output directory
+2025-04-22 22:25:43,152 - INFO - Processing file: testfile_3.txt
+2025-04-22 22:25:43,186 - INFO - Inserted 1 records from testfile_3.txt
+2025-04-22 22:25:43,188 - INFO - Moved testfile_3.txt to output directory
+2025-04-22 22:25:44,194 - INFO - Processing file: testfile_4.txt
+2025-04-22 22:25:44,229 - INFO - Inserted 1 records from testfile_4.txt
+2025-04-22 22:25:44,229 - INFO - Moved testfile_4.txt to output directory
+2025-04-22 22:25:45,237 - INFO - Processing file: testfile_5.txt
+2025-04-22 22:25:45,273 - INFO - Inserted 1 records from testfile_5.txt
+2025-04-22 22:25:45,274 - INFO - Moved testfile_5.txt to output directory
+2025-04-22 22:25:46,276 - INFO - Processing file: testfile_6.txt
+2025-04-22 22:25:46,338 - INFO - Inserted 1 records from testfile_6.txt
+2025-04-22 22:25:46,338 - INFO - Moved testfile_6.txt to output directory
+2025-04-22 22:25:47,342 - INFO - Processing file: testfile_7.txt
+2025-04-22 22:25:47,376 - INFO - Inserted 1 records from testfile_7.txt
+2025-04-22 22:25:47,376 - INFO - Moved testfile_7.txt to output directory
+2025-04-22 22:25:48,383 - INFO - Processing file: testfile_8.txt
+2025-04-22 22:25:48,420 - INFO - Inserted 1 records from testfile_8.txt
+2025-04-22 22:25:48,420 - INFO - Moved testfile_8.txt to output directory
+2025-04-22 22:25:49,422 - INFO - Processing file: testfile_9.txt
+2025-04-22 22:25:49,473 - INFO - Inserted 1 records from testfile_9.txt
+2025-04-22 22:25:49,473 - INFO - Moved testfile_9.txt to output directory
+2025-04-22 22:25:50,476 - INFO - Processing file: testfile_10.txt
+2025-04-22 22:25:50,518 - INFO - Inserted 1 records from testfile_10.txt
+2025-04-22 22:25:50,518 - INFO - Moved testfile_10.txt to output directory
+2025-04-22 22:25:51,529 - INFO - Processing file: testfile_11.txt
+2025-04-22 22:25:51,580 - INFO - Inserted 1 records from testfile_11.txt
+2025-04-22 22:25:51,584 - INFO - Moved testfile_11.txt to output directory
+2025-04-22 22:25:52,591 - INFO - Processing file: testfile_12.txt
+2025-04-22 22:25:52,718 - INFO - Inserted 1 records from testfile_12.txt
+2025-04-22 22:25:52,720 - INFO - Moved testfile_12.txt to output directory
+2025-04-22 22:25:53,728 - INFO - Processing file: testfile_13.txt
+2025-04-22 22:25:53,774 - INFO - Inserted 1 records from testfile_13.txt
+2025-04-22 22:25:53,774 - INFO - Moved testfile_13.txt to output directory
+2025-04-22 22:25:54,780 - INFO - Processing file: testfile_14.txt
+2025-04-22 22:25:54,846 - INFO - Inserted 1 records from testfile_14.txt
+2025-04-22 22:25:54,846 - INFO - Moved testfile_14.txt to output directory
+2025-04-22 22:25:55,850 - INFO - Processing file: testfile_15.txt
+2025-04-22 22:25:55,906 - INFO - Inserted 1 records from testfile_15.txt
+2025-04-22 22:25:55,907 - INFO - Moved testfile_15.txt to output directory
+2025-04-22 22:25:56,908 - INFO - Processing file: testfile_16.txt
+2025-04-22 22:25:56,936 - INFO - Inserted 1 records from testfile_16.txt
+2025-04-22 22:25:56,938 - INFO - Moved testfile_16.txt to output directory
+2025-04-22 22:25:57,943 - INFO - Processing file: testfile_17.txt
+2025-04-22 22:25:57,994 - INFO - Inserted 1 records from testfile_17.txt
+2025-04-22 22:25:57,998 - INFO - Moved testfile_17.txt to output directory
+2025-04-22 22:25:59,006 - INFO - Processing file: testfile_18.txt
+2025-04-22 22:25:59,085 - INFO - Inserted 1 records from testfile_18.txt
+2025-04-22 22:25:59,087 - INFO - Moved testfile_18.txt to output directory
+2025-04-22 22:26:00,090 - INFO - Processing file: testfile_19.txt
+2025-04-22 22:26:00,135 - INFO - Inserted 1 records from testfile_19.txt
+2025-04-22 22:26:00,136 - INFO - Moved testfile_19.txt to output directory
+2025-04-22 22:26:01,139 - INFO - Processing file: testfile_20.txt
+2025-04-22 22:26:01,206 - INFO - Inserted 1 records from testfile_20.txt
+2025-04-22 22:26:01,209 - INFO - Moved testfile_20.txt to output directory
+2025-04-22 22:26:02,215 - INFO - Processing file: testfile_21.txt
+2025-04-22 22:26:02,257 - INFO - Inserted 1 records from testfile_21.txt
+2025-04-22 22:26:02,258 - INFO - Moved testfile_21.txt to output directory
+2025-04-22 22:26:03,260 - INFO - Processing file: testfile_22.txt
+2025-04-22 22:26:03,298 - INFO - Inserted 1 records from testfile_22.txt
+2025-04-22 22:26:03,300 - INFO - Moved testfile_22.txt to output directory
+2025-04-22 22:26:04,301 - INFO - Processing file: testfile_23.txt
+2025-04-22 22:26:04,335 - INFO - Inserted 1 records from testfile_23.txt
+2025-04-22 22:26:04,338 - INFO - Moved testfile_23.txt to output directory
+2025-04-22 22:26:05,346 - INFO - Processing file: testfile_24.txt
+2025-04-22 22:26:05,386 - INFO - Inserted 1 records from testfile_24.txt
+2025-04-22 22:26:05,388 - INFO - Moved testfile_24.txt to output directory
+2025-04-22 22:26:06,394 - INFO - Processing file: testfile_25.txt
+2025-04-22 22:26:06,446 - INFO - Inserted 1 records from testfile_25.txt
+2025-04-22 22:26:06,448 - INFO - Moved testfile_25.txt to output directory
+2025-04-22 22:26:07,455 - INFO - Processing file: testfile_26.txt
+2025-04-22 22:26:07,491 - INFO - Inserted 1 records from testfile_26.txt
+2025-04-22 22:26:07,500 - INFO - Moved testfile_26.txt to output directory
+2025-04-22 22:26:08,506 - INFO - Processing file: testfile_27.txt
+2025-04-22 22:26:08,539 - INFO - Inserted 1 records from testfile_27.txt
+2025-04-22 22:26:08,540 - INFO - Moved testfile_27.txt to output directory
+2025-04-22 22:26:09,544 - INFO - Processing file: testfile_28.txt
+2025-04-22 22:26:09,582 - INFO - Inserted 1 records from testfile_28.txt
+2025-04-22 22:26:09,586 - INFO - Moved testfile_28.txt to output directory
+2025-04-22 22:26:10,590 - INFO - Processing file: testfile_29.txt
+2025-04-22 22:26:10,618 - INFO - Inserted 1 records from testfile_29.txt
+2025-04-22 22:26:10,624 - INFO - Moved testfile_29.txt to output directory
+2025-04-22 22:26:11,627 - INFO - Processing file: testfile_30.txt
+2025-04-22 22:26:11,665 - INFO - Inserted 1 records from testfile_30.txt
+2025-04-22 22:26:11,665 - INFO - Moved testfile_30.txt to output directory
+2025-04-22 22:26:12,671 - INFO - Processing file: testfile_31.txt
+2025-04-22 22:26:12,709 - INFO - Inserted 1 records from testfile_31.txt
+2025-04-22 22:26:12,714 - INFO - Moved testfile_31.txt to output directory
+2025-04-22 22:26:13,716 - INFO - Processing file: testfile_32.txt
+2025-04-22 22:26:13,792 - INFO - Inserted 1 records from testfile_32.txt
+2025-04-22 22:26:13,793 - INFO - Moved testfile_32.txt to output directory
+2025-04-22 22:26:14,796 - INFO - Processing file: testfile_33.txt
+2025-04-22 22:26:14,829 - INFO - Inserted 1 records from testfile_33.txt
+2025-04-22 22:26:14,832 - INFO - Moved testfile_33.txt to output directory
+2025-04-22 22:26:15,843 - INFO - Processing file: testfile_34.txt
+2025-04-22 22:26:15,916 - INFO - Inserted 1 records from testfile_34.txt
+2025-04-22 22:26:15,918 - INFO - Moved testfile_34.txt to output directory
+2025-04-22 22:26:16,920 - INFO - Processing file: testfile_35.txt
+2025-04-22 22:26:16,969 - INFO - Inserted 1 records from testfile_35.txt
+2025-04-22 22:26:16,972 - INFO - Moved testfile_35.txt to output directory
+2025-04-22 22:26:17,977 - INFO - Processing file: testfile_36.txt
+2025-04-22 22:26:18,028 - INFO - Inserted 1 records from testfile_36.txt
+2025-04-22 22:26:18,029 - INFO - Moved testfile_36.txt to output directory
+2025-04-22 22:26:19,039 - INFO - Processing file: testfile_37.txt
+2025-04-22 22:26:19,071 - INFO - Inserted 1 records from testfile_37.txt
+2025-04-22 22:26:19,073 - INFO - Moved testfile_37.txt to output directory
+2025-04-22 22:26:20,074 - INFO - Processing file: testfile_38.txt
+2025-04-22 22:26:20,104 - INFO - Inserted 1 records from testfile_38.txt
+2025-04-22 22:26:20,105 - INFO - Moved testfile_38.txt to output directory
+2025-04-22 22:26:21,106 - INFO - Processing file: testfile_39.txt
+2025-04-22 22:26:21,212 - INFO - Inserted 1 records from testfile_39.txt
+2025-04-22 22:26:21,217 - INFO - Moved testfile_39.txt to output directory
+2025-04-22 22:26:22,222 - INFO - Processing file: testfile_40.txt
+2025-04-22 22:26:22,267 - INFO - Inserted 1 records from testfile_40.txt
+2025-04-22 22:26:22,267 - INFO - Moved testfile_40.txt to output directory
+2025-04-22 22:26:23,271 - INFO - Processing file: testfile_41.txt
+2025-04-22 22:26:23,299 - INFO - Inserted 1 records from testfile_41.txt
+2025-04-22 22:26:23,303 - INFO - Moved testfile_41.txt to output directory
+2025-04-22 22:26:24,306 - INFO - Processing file: testfile_42.txt
+2025-04-22 22:26:24,461 - INFO - Inserted 1 records from testfile_42.txt
+2025-04-22 22:26:24,462 - INFO - Moved testfile_42.txt to output directory
+2025-04-22 22:26:25,463 - INFO - Processing file: testfile_43.txt
+2025-04-22 22:26:25,504 - INFO - Inserted 1 records from testfile_43.txt
+2025-04-22 22:26:25,504 - INFO - Moved testfile_43.txt to output directory
+2025-04-22 22:26:26,507 - INFO - Processing file: testfile_44.txt
+2025-04-22 22:26:26,541 - INFO - Inserted 1 records from testfile_44.txt
+2025-04-22 22:26:26,541 - INFO - Moved testfile_44.txt to output directory
+2025-04-22 22:26:27,549 - INFO - Processing file: testfile_45.txt
+2025-04-22 22:26:27,582 - INFO - Inserted 1 records from testfile_45.txt
+2025-04-22 22:26:27,583 - INFO - Moved testfile_45.txt to output directory
+2025-04-22 22:26:28,589 - INFO - Processing file: testfile_46.txt
+2025-04-22 22:26:28,648 - INFO - Inserted 1 records from testfile_46.txt
+2025-04-22 22:26:28,652 - INFO - Moved testfile_46.txt to output directory
+2025-04-22 22:26:29,653 - INFO - Processing file: testfile_47.txt
+2025-04-22 22:26:29,696 - INFO - Inserted 1 records from testfile_47.txt
+2025-04-22 22:26:29,699 - INFO - Moved testfile_47.txt to output directory
+2025-04-22 22:26:30,703 - INFO - Processing file: testfile_48.txt
+2025-04-22 22:26:30,738 - INFO - Inserted 1 records from testfile_48.txt
+2025-04-22 22:26:30,740 - INFO - Moved testfile_48.txt to output directory
+2025-04-22 22:26:31,741 - INFO - Processing file: testfile_49.txt
+2025-04-22 22:26:31,771 - INFO - Inserted 1 records from testfile_49.txt
+2025-04-22 22:26:31,773 - INFO - Moved testfile_49.txt to output directory
+2025-04-22 22:26:32,781 - INFO - Processing file: testfile_50.txt
+2025-04-22 22:26:32,815 - INFO - Inserted 1 records from testfile_50.txt
+2025-04-22 22:26:32,817 - INFO - Moved testfile_50.txt to output directory
+2025-04-22 22:27:22,637 - INFO - Processing file: testfile_1.txt
+2025-04-22 22:27:22,673 - INFO - Inserted 1 records from testfile_1.txt
+2025-04-22 22:27:22,679 - INFO - Moved testfile_1.txt to output directory
+2025-04-22 22:27:23,692 - INFO - Processing file: testfile_2.txt
+2025-04-22 22:27:23,734 - INFO - Inserted 1 records from testfile_2.txt
+2025-04-22 22:27:23,738 - INFO - Moved testfile_2.txt to output directory
+2025-04-22 22:27:24,744 - INFO - Processing file: testfile_3.txt
+2025-04-22 22:27:24,778 - INFO - Inserted 1 records from testfile_3.txt
+2025-04-22 22:27:24,778 - INFO - Moved testfile_3.txt to output directory
+2025-04-22 22:27:25,782 - INFO - Processing file: testfile_4.txt
+2025-04-22 22:27:25,818 - INFO - Inserted 1 records from testfile_4.txt
+2025-04-22 22:27:25,823 - INFO - Moved testfile_4.txt to output directory
+2025-04-22 22:27:26,831 - INFO - Processing file: testfile_5.txt
+2025-04-22 22:27:26,928 - INFO - Inserted 1 records from testfile_5.txt
+2025-04-22 22:27:26,929 - INFO - Moved testfile_5.txt to output directory
+2025-04-22 22:27:27,934 - INFO - Processing file: testfile_6.txt
+2025-04-22 22:27:27,987 - INFO - Inserted 1 records from testfile_6.txt
+2025-04-22 22:27:27,990 - INFO - Moved testfile_6.txt to output directory
+2025-04-22 22:27:28,992 - INFO - Processing file: testfile_7.txt
+2025-04-22 22:27:29,048 - INFO - Inserted 1 records from testfile_7.txt
+2025-04-22 22:27:29,053 - INFO - Moved testfile_7.txt to output directory
+2025-04-22 22:27:30,060 - INFO - Processing file: testfile_8.txt
+2025-04-22 22:27:30,098 - INFO - Inserted 1 records from testfile_8.txt
+2025-04-22 22:27:30,100 - INFO - Moved testfile_8.txt to output directory
+2025-04-22 22:27:31,107 - INFO - Processing file: testfile_9.txt
+2025-04-22 22:27:31,145 - INFO - Inserted 1 records from testfile_9.txt
+2025-04-22 22:27:31,147 - INFO - Moved testfile_9.txt to output directory
+2025-04-22 22:27:32,149 - INFO - Processing file: testfile_10.txt
+2025-04-22 22:27:32,199 - INFO - Inserted 1 records from testfile_10.txt
+2025-04-22 22:27:32,202 - INFO - Moved testfile_10.txt to output directory
+2025-04-22 22:27:33,206 - INFO - Processing file: testfile_11.txt
+2025-04-22 22:27:33,249 - INFO - Inserted 1 records from testfile_11.txt
+2025-04-22 22:27:33,250 - INFO - Moved testfile_11.txt to output directory
+2025-04-22 22:27:34,253 - INFO - Processing file: testfile_12.txt
+2025-04-22 22:27:34,293 - INFO - Inserted 1 records from testfile_12.txt
+2025-04-22 22:27:34,295 - INFO - Moved testfile_12.txt to output directory
+2025-04-22 22:27:35,296 - INFO - Processing file: testfile_13.txt
+2025-04-22 22:27:35,340 - INFO - Inserted 1 records from testfile_13.txt
+2025-04-22 22:27:35,340 - INFO - Moved testfile_13.txt to output directory
+2025-04-22 22:27:36,344 - INFO - Processing file: testfile_14.txt
+2025-04-22 22:27:36,379 - INFO - Inserted 1 records from testfile_14.txt
+2025-04-22 22:27:36,380 - INFO - Moved testfile_14.txt to output directory
+2025-04-22 22:27:37,384 - INFO - Processing file: testfile_15.txt
+2025-04-22 22:27:37,413 - INFO - Inserted 1 records from testfile_15.txt
+2025-04-22 22:27:37,413 - INFO - Moved testfile_15.txt to output directory
+2025-04-22 22:27:38,418 - INFO - Processing file: testfile_16.txt
+2025-04-22 22:27:38,460 - INFO - Inserted 1 records from testfile_16.txt
+2025-04-22 22:27:38,460 - INFO - Moved testfile_16.txt to output directory
+2025-04-22 22:27:39,469 - INFO - Processing file: testfile_17.txt
+2025-04-22 22:27:39,503 - INFO - Inserted 1 records from testfile_17.txt
+2025-04-22 22:27:39,503 - INFO - Moved testfile_17.txt to output directory
+2025-04-22 22:27:40,506 - INFO - Processing file: testfile_18.txt
+2025-04-22 22:27:40,549 - INFO - Inserted 1 records from testfile_18.txt
+2025-04-22 22:27:40,549 - INFO - Moved testfile_18.txt to output directory
+2025-04-22 22:27:41,559 - INFO - Processing file: testfile_19.txt
+2025-04-22 22:27:41,588 - INFO - Inserted 1 records from testfile_19.txt
+2025-04-22 22:27:41,589 - INFO - Moved testfile_19.txt to output directory
+2025-04-22 22:27:42,590 - INFO - Processing file: testfile_20.txt
+2025-04-22 22:27:42,617 - INFO - Inserted 1 records from testfile_20.txt
+2025-04-22 22:27:42,618 - INFO - Moved testfile_20.txt to output directory
+2025-04-22 22:27:43,621 - INFO - Processing file: testfile_21.txt
+2025-04-22 22:27:43,660 - INFO - Inserted 1 records from testfile_21.txt
+2025-04-22 22:27:43,663 - INFO - Moved testfile_21.txt to output directory
+2025-04-22 22:27:44,667 - INFO - Processing file: testfile_22.txt
+2025-04-22 22:27:44,714 - INFO - Inserted 1 records from testfile_22.txt
+2025-04-22 22:27:44,717 - INFO - Moved testfile_22.txt to output directory
+2025-04-22 22:27:45,722 - INFO - Processing file: testfile_23.txt
+2025-04-22 22:27:45,777 - INFO - Inserted 1 records from testfile_23.txt
+2025-04-22 22:27:45,778 - INFO - Moved testfile_23.txt to output directory
+2025-04-22 22:27:46,783 - INFO - Processing file: testfile_24.txt
+2025-04-22 22:27:46,817 - INFO - Inserted 1 records from testfile_24.txt
+2025-04-22 22:27:46,820 - INFO - Moved testfile_24.txt to output directory
+2025-04-22 22:27:47,824 - INFO - Processing file: testfile_25.txt
+2025-04-22 22:27:47,874 - INFO - Inserted 1 records from testfile_25.txt
+2025-04-22 22:27:47,875 - INFO - Moved testfile_25.txt to output directory
+2025-04-22 22:27:48,880 - INFO - Processing file: testfile_26.txt
+2025-04-22 22:27:48,933 - INFO - Inserted 1 records from testfile_26.txt
+2025-04-22 22:27:48,933 - INFO - Moved testfile_26.txt to output directory
+2025-04-22 22:27:49,935 - INFO - Processing file: testfile_27.txt
+2025-04-22 22:27:49,975 - INFO - Inserted 1 records from testfile_27.txt
+2025-04-22 22:27:49,979 - INFO - Moved testfile_27.txt to output directory
+2025-04-22 22:27:50,984 - INFO - Processing file: testfile_28.txt
+2025-04-22 22:27:51,051 - INFO - Inserted 1 records from testfile_28.txt
+2025-04-22 22:27:51,052 - INFO - Moved testfile_28.txt to output directory
+2025-04-22 22:27:52,056 - INFO - Processing file: testfile_29.txt
+2025-04-22 22:27:52,098 - INFO - Inserted 1 records from testfile_29.txt
+2025-04-22 22:27:52,098 - INFO - Moved testfile_29.txt to output directory
+2025-04-22 22:27:53,101 - INFO - Processing file: testfile_30.txt
+2025-04-22 22:27:53,180 - INFO - Inserted 1 records from testfile_30.txt
+2025-04-22 22:27:53,181 - INFO - Moved testfile_30.txt to output directory
+2025-04-22 22:27:54,184 - INFO - Processing file: testfile_31.txt
+2025-04-22 22:27:54,252 - INFO - Inserted 1 records from testfile_31.txt
+2025-04-22 22:27:54,255 - INFO - Moved testfile_31.txt to output directory
+2025-04-22 22:27:55,258 - INFO - Processing file: testfile_32.txt
+2025-04-22 22:27:55,282 - INFO - Inserted 1 records from testfile_32.txt
+2025-04-22 22:27:55,282 - INFO - Moved testfile_32.txt to output directory
+2025-04-22 22:27:56,286 - INFO - Processing file: testfile_33.txt
+2025-04-22 22:27:56,312 - INFO - Inserted 1 records from testfile_33.txt
+2025-04-22 22:27:56,313 - INFO - Moved testfile_33.txt to output directory
+2025-04-22 22:27:57,316 - INFO - Processing file: testfile_34.txt
+2025-04-22 22:27:57,339 - INFO - Inserted 1 records from testfile_34.txt
+2025-04-22 22:27:57,341 - INFO - Moved testfile_34.txt to output directory
+2025-04-22 22:27:58,344 - INFO - Processing file: testfile_35.txt
+2025-04-22 22:27:58,491 - INFO - Inserted 1 records from testfile_35.txt
+2025-04-22 22:27:58,512 - INFO - Moved testfile_35.txt to output directory
+2025-04-22 22:27:59,516 - INFO - Processing file: testfile_36.txt
+2025-04-22 22:27:59,563 - INFO - Inserted 1 records from testfile_36.txt
+2025-04-22 22:27:59,563 - INFO - Moved testfile_36.txt to output directory
+2025-04-22 22:28:00,564 - INFO - Processing file: testfile_37.txt
+2025-04-22 22:28:00,628 - INFO - Inserted 1 records from testfile_37.txt
+2025-04-22 22:28:00,628 - INFO - Moved testfile_37.txt to output directory
+2025-04-22 22:28:01,633 - INFO - Processing file: testfile_38.txt
+2025-04-22 22:28:01,684 - INFO - Inserted 1 records from testfile_38.txt
+2025-04-22 22:28:01,686 - INFO - Moved testfile_38.txt to output directory
+2025-04-22 22:28:02,690 - INFO - Processing file: testfile_39.txt
+2025-04-22 22:28:02,731 - INFO - Inserted 1 records from testfile_39.txt
+2025-04-22 22:28:02,732 - INFO - Moved testfile_39.txt to output directory
+2025-04-22 22:28:03,736 - INFO - Processing file: testfile_40.txt
+2025-04-22 22:28:03,776 - INFO - Inserted 1 records from testfile_40.txt
+2025-04-22 22:28:03,785 - INFO - Moved testfile_40.txt to output directory
+2025-04-22 22:28:04,787 - INFO - Processing file: testfile_41.txt
+2025-04-22 22:28:04,822 - INFO - Inserted 1 records from testfile_41.txt
+2025-04-22 22:28:04,826 - INFO - Moved testfile_41.txt to output directory
+2025-04-22 22:28:05,829 - INFO - Processing file: testfile_42.txt
+2025-04-22 22:28:05,864 - INFO - Inserted 1 records from testfile_42.txt
+2025-04-22 22:28:05,867 - INFO - Moved testfile_42.txt to output directory
+2025-04-22 22:28:06,869 - INFO - Processing file: testfile_43.txt
+2025-04-22 22:28:06,909 - INFO - Inserted 1 records from testfile_43.txt
+2025-04-22 22:28:06,910 - INFO - Moved testfile_43.txt to output directory
+2025-04-22 22:28:07,913 - INFO - Processing file: testfile_44.txt
+2025-04-22 22:28:07,959 - INFO - Inserted 1 records from testfile_44.txt
+2025-04-22 22:28:07,960 - INFO - Moved testfile_44.txt to output directory
+2025-04-22 22:28:08,963 - INFO - Processing file: testfile_45.txt
+2025-04-22 22:28:09,017 - INFO - Inserted 1 records from testfile_45.txt
+2025-04-22 22:28:09,017 - INFO - Moved testfile_45.txt to output directory
+2025-04-22 22:28:10,026 - INFO - Processing file: testfile_46.txt
+2025-04-22 22:28:10,074 - INFO - Inserted 1 records from testfile_46.txt
+2025-04-22 22:28:10,079 - INFO - Moved testfile_46.txt to output directory
+2025-04-22 22:28:11,080 - INFO - Processing file: testfile_47.txt
+2025-04-22 22:28:11,110 - INFO - Inserted 1 records from testfile_47.txt
+2025-04-22 22:28:11,112 - INFO - Moved testfile_47.txt to output directory
+2025-04-22 22:28:12,115 - INFO - Processing file: testfile_48.txt
+2025-04-22 22:28:12,151 - INFO - Inserted 1 records from testfile_48.txt
+2025-04-22 22:28:12,156 - INFO - Moved testfile_48.txt to output directory
+2025-04-22 22:28:13,160 - INFO - Processing file: testfile_49.txt
+2025-04-22 22:28:13,198 - INFO - Inserted 1 records from testfile_49.txt
+2025-04-22 22:28:13,203 - INFO - Moved testfile_49.txt to output directory
+2025-04-22 22:28:14,204 - INFO - Processing file: testfile_50.txt
+2025-04-22 22:28:14,248 - INFO - Inserted 1 records from testfile_50.txt
+2025-04-22 22:28:14,251 - INFO - Moved testfile_50.txt to output directory
+2025-04-22 22:36:34,876 - INFO - Database initialization completed
+2025-04-22 22:36:34,883 - INFO - Started monitoring /home/stilyan/machine_app/input
+2025-04-22 23:20:15,217 - INFO - Processing file: test.txt
+2025-04-22 23:20:15,226 - INFO - Processing file: test.txt
+2025-04-22 23:20:15,369 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:15,376 - INFO - Moved test.txt to output directory
+2025-04-22 23:20:15,382 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:15,382 - ERROR - Error processing test.txt: [Errno 2] No such file or directory: '/home/stilyan/machine_app/input/test.txt' -> '/home/stilyan/machine_app/output/test.txt'
+2025-04-22 23:20:16,923 - INFO - Processing file: test.txt
+2025-04-22 23:20:16,923 - INFO - Processing file: test.txt
+2025-04-22 23:20:16,969 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:16,973 - INFO - Moved test.txt to output directory
+2025-04-22 23:20:16,983 - INFO - Inserted 1 records from test.txt
+2025-04-22 23:20:16,985 - ERROR - Error processing test.txt: [Errno 2] No such file or directory: '/home/stilyan/machine_app/input/test.txt' -> '/home/stilyan/machine_app/output/test.txt'
+2025-04-23 00:50:20,422 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:50:27,587 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:50:33,049 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:50:38,636 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:50:47,495 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:50:53,015 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:50:58,524 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:04,049 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:09,453 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:14,991 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:20,455 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:25,893 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:31,145 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:36,375 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:41,665 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:46,884 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:52,121 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:51:57,420 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:02,865 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:08,107 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:13,344 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:18,590 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:23,863 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:29,115 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:34,358 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:39,595 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:44,856 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:50,106 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:52:55,352 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:00,613 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:05,863 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:11,122 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:16,413 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:21,947 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:27,459 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:33,075 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:38,645 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:44,373 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:49,883 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:53:55,524 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:00,866 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:06,185 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:11,744 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:17,259 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:22,610 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:27,892 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:33,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:38,402 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:43,630 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:48,866 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:54,113 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:54:59,335 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:04,607 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:09,901 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:15,106 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:20,340 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:25,640 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:30,873 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:36,127 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:41,360 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:46,607 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:51,885 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:55:57,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:02,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:07,626 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:13,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:18,371 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:23,642 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:28,856 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:34,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:39,370 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:44,613 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:49,878 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:56:55,105 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:00,356 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:05,627 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:11,107 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:16,363 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:21,641 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:27,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:32,365 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:37,650 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:43,114 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:48,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:53,643 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:57:59,129 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:04,354 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:09,653 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:14,887 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:20,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:25,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:30,623 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:35,904 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:41,129 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:46,355 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:51,647 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:58:56,879 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:02,115 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:07,395 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:12,622 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:17,902 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:23,126 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:28,382 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:33,655 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:38,902 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:44,120 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:49,373 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:54,626 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 00:59:59,898 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:05,134 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:10,371 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:15,649 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:20,886 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:26,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:31,389 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:36,711 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:42,117 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:47,373 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:52,644 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:00:58,105 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:03,375 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:08,592 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:13,881 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:19,115 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:24,370 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:29,648 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:35,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:40,370 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:45,640 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:51,124 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:01:56,357 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:01,636 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:07,103 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:12,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:17,637 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:23,123 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:28,372 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:33,632 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:39,114 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:44,344 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:49,646 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:02:55,112 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:00,362 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:05,610 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:10,855 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:16,113 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:21,342 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:26,612 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:31,872 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:37,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:42,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:47,639 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:53,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:03:58,358 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:03,642 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:09,121 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:14,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:19,627 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:24,856 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:30,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:35,373 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:40,604 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:45,901 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:51,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:04:56,366 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:01,645 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:07,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:12,357 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:17,629 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:23,113 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:28,366 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:33,649 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:39,097 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:44,370 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:49,648 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:05:55,125 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:00,378 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:05,652 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:11,122 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:16,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:21,641 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:27,129 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:32,373 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:37,675 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:43,136 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:48,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:53,628 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:06:59,046 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:04,434 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:09,923 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:15,425 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:20,658 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:26,180 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:31,666 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:37,181 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:42,669 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:48,169 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:53,625 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:07:59,149 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:04,363 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:09,668 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:15,120 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:20,351 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:25,669 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:31,175 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:36,700 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:42,133 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:47,387 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:52,634 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:08:57,881 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:03,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:08,377 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:13,636 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:19,124 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:24,410 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:29,930 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:35,396 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:40,615 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:45,926 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:51,350 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:09:56,644 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:01,947 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:07,416 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:12,905 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:18,420 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:23,965 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:29,386 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:34,692 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:40,127 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:45,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:50,672 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:10:56,164 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:01,623 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:07,110 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:12,375 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:17,652 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:23,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:28,413 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:33,871 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:39,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:44,354 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:49,640 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:11:55,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:00,344 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:05,649 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:11,182 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:16,635 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:22,121 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:27,407 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:32,695 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:38,117 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:43,386 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:48,852 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:54,110 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:12:59,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:04,636 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:09,935 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:15,439 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:20,869 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:26,106 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:31,370 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:36,607 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:41,919 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:47,349 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:52,611 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:13:57,889 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:03,125 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:08,390 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:13,881 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:19,102 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:24,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:29,664 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:35,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:40,358 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:45,661 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:51,168 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:14:56,619 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:01,905 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:07,108 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:12,374 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:17,634 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:23,130 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:28,377 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:33,654 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:39,103 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:44,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:49,682 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:15:55,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:00,363 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:05,641 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:11,122 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:16,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:21,645 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:27,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:32,375 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:37,653 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:43,125 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:48,371 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:53,630 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:16:58,862 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:04,129 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:09,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:14,619 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:19,867 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:25,121 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:30,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:35,642 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:41,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:46,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:51,656 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:17:57,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:02,362 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:07,645 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:13,128 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:18,379 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:23,656 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:29,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:34,367 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:39,648 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:45,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:50,357 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:18:55,627 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:00,860 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:06,119 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:11,359 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:16,619 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:21,899 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:27,124 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:32,372 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:37,658 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:43,123 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:48,357 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:53,619 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:19:58,855 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:04,117 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:09,378 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:14,626 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:19,930 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:25,362 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:30,608 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:35,880 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:41,108 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:46,370 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:51,655 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:20:57,103 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:02,359 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:07,622 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:12,851 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:18,104 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:23,357 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:28,606 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:33,897 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:39,136 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:44,366 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:49,590 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:21:54,846 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:00,154 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:05,637 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:11,125 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:16,368 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:21,613 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:26,847 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:32,098 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:37,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:42,628 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:47,863 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:53,117 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:22:58,354 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:03,585 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:08,853 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:14,126 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:19,367 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:24,599 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:29,865 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:35,110 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:40,348 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:45,714 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:51,165 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:23:56,613 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:01,881 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:07,125 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:12,358 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:17,619 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:22,874 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:28,112 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:33,371 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:38,626 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:43,894 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:49,121 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:54,348 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:24:59,620 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:04,863 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:10,103 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:15,367 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:20,625 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:25,889 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:31,181 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:36,618 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:42,184 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:47,624 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:52,868 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:25:58,113 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:03,356 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:08,626 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:13,888 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:19,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:24,380 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:29,621 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:35,124 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:40,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:45,655 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:51,149 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:26:56,609 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:01,878 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:07,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:12,360 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:17,641 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:23,101 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:28,365 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:33,641 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:39,131 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:44,359 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:49,601 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:27:54,851 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:00,135 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:05,387 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:10,616 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:15,886 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:21,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:26,376 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:31,629 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:36,870 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:42,112 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:47,357 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:52,609 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:28:57,893 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:03,107 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:08,354 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:13,630 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:19,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:24,339 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:29,631 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:34,874 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:40,156 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:45,706 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:51,130 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:29:56,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:01,635 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:06,862 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:12,125 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:17,379 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:22,627 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:27,884 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:33,121 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:38,376 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:43,669 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:49,123 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:54,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:30:59,654 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:05,114 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:10,365 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:15,644 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:21,122 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:26,383 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:31,611 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:36,873 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:42,127 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:47,369 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:52,619 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:31:57,893 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:03,119 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:08,384 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:13,644 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:19,120 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:24,369 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:29,637 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:35,118 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:40,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:45,647 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:51,114 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:32:56,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:01,678 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:07,122 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:12,381 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:17,645 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:23,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:28,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:33,666 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:39,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:44,406 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:49,640 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:33:55,119 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:00,371 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:05,662 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:11,111 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:16,352 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:21,632 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:27,116 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:32,369 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:37,673 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:43,155 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:48,623 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:53,860 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:34:59,104 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:04,381 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:09,852 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:15,108 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:20,356 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:25,624 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:30,867 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:36,119 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:41,361 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:46,606 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:51,869 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:35:57,102 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:02,352 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:07,606 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:12,839 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:18,107 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:23,364 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:28,608 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:33,856 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:39,112 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:44,339 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:49,606 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:36:54,844 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:00,113 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:05,358 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:10,615 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:15,865 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:21,114 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:26,391 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:31,923 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:37,381 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:42,620 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:47,901 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:53,109 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:37:58,399 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
+2025-04-23 01:38:03,896 - ERROR - Database initialization failed: connection to server at "localhost" (127.0.0.1), port 5432 failed: Connection refused
+	Is the server running on that host and accepting TCP/IP connections?
+
