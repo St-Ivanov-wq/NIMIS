@@ -13,4 +13,21 @@
 - 📊 **Structured Logging**: Audit-ready logs with severity levels  
 - ☁️ **AWS Optimized**: Pre-configured for EC2 + RDS deployment  
 
+---
+
+## 🛠️ Installation & Setup
+
+### Prerequisites
+- Python 3.10+
+- PostgreSQL 14+
+- AWS Account (for cloud deployment)
+
+```bash
+# Clone repository
+git clone https://github.com/St-Ivanov-wq/NIMIS.git
+cd NIMIS-main
+
+# Create data directories
+mkdir -p ~/machine_app/{input,output}
+
 
