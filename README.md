@@ -13,6 +13,7 @@
 - **Audit-Ready Logging** - Structured logs with severity levels  
 - **AWS Optimized** - Pre-configured for EC2 + RDS deployment  
 
+---
 
+🚀 ** AWS Deployment **
 
-🚀 # AWS Deployment
