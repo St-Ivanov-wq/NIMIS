@@ -135,6 +135,7 @@ CREATE TABLE processed_data (
 ## 📂 Repository Structure
 ---
 
+```
 NIMIS-main/
 ├── app/
 │   └── processor.py           # Core processing logic
@@ -150,3 +151,4 @@ NIMIS-main/
 ├── requirements.txt           # Python dependencies
 ├── .env.example               # Configuration template
 └── LICENSE                    # Apache 2.0 License
+```
