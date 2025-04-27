@@ -106,3 +106,47 @@ sudo systemctl enable --now nimis
 ```bash
 docker compose -f docker/docker-compose.yml build
 ```
+
+**2. Start Services**
+```bash
+docker compose -f docker/docker-compose.yml up -d
+```
+**3. Monitor Logs**
+```bash
+docker compose -f docker/docker-compose.yml logs -f
+```
+
+##📄 Database Schema
+---
+```sql
+CREATE TABLE processed_data (
+    id SERIAL PRIMARY KEY,
+    filename VARCHAR(255) NOT NULL,
+    machine_status VARCHAR(255) NOT NULL,
+    terminal VARCHAR(50) NOT NULL,
+    machine VARCHAR(50) NOT NULL,
+    operator VARCHAR(100) NOT NULL,
+    event_date DATE NOT NULL,
+    unix_timestamp BIGINT NOT NULL,
+    processed_at TIMESTAMP DEFAULT NOW()
+);
+```
+
+##📂 Repository Structure
+---
+
+NIMIS-main/
+├── app/
+│   └── processor.py           # Core processing logic
+├── AnomalyDetection/          # Machine learning models
+│   └── anomaly_detection.ipynb
+├── TestData/                  # Sample datasets
+│   ├── production/
+│   └── test/
+├── docker/
+│   ├── Dockerfile             # Container configuration
+│   └── docker-compose.yml     # Service orchestration
+├── backup_db.sh               # Database backup script
+├── requirements.txt           # Python dependencies
+├── .env.example               # Configuration template
+└── LICENSE                    # Apache 2.0 License
