@@ -100,7 +100,7 @@ sudo systemctl daemon-reload
 sudo systemctl enable --now nimis
 ```
 ---
-##🐳 Docker Deployment
+## 🐳 Docker Deployment
 ---
 **1. Build Containers**
 ```bash
@@ -116,7 +116,7 @@ docker compose -f docker/docker-compose.yml up -d
 docker compose -f docker/docker-compose.yml logs -f
 ```
 
-##📄 Database Schema
+## 📄 Database Schema
 ---
 ```sql
 CREATE TABLE processed_data (
@@ -132,7 +132,7 @@ CREATE TABLE processed_data (
 );
 ```
 
-##📂 Repository Structure
+## 📂 Repository Structure
 ---
 
 NIMIS-main/
