@@ -13,17 +13,6 @@
 - **Audit-Ready Logging** - Structured logs with severity levels  
 - **AWS Optimized** - Pre-configured for EC2 + RDS deployment  
 
-```mermaid
-graph LR
-A[Shop Floor Machines] --> B(Input Directory)
-B --> C{Processor}
-C --> D[(PostgreSQL DB)]
-C --> E[Output Archive]
-D --> F[Analytics Dashboard]
-E --> G[Long-Term Storage]
 
-Apache 2.0 License - See LICENSE for details.
-
-*Developed by S. Ivanov - Part of NIMIS Industry 4.0 Initiative*
 
 
