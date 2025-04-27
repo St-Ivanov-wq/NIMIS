@@ -29,5 +29,5 @@ cd NIMIS-main
 
 # Create data directories
 mkdir -p ~/machine_app/{input,output}
-
-
+---
+## ☁️ AWS Deployment Guide
