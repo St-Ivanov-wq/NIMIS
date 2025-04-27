@@ -1,0 +1,107 @@
+============================================
+NIMIS AWS Deployment Guide
+============================================
+
+1. PREREQUISITES
+----------------
+- AWS Account with EC2/RDS access
+- SSH client (e.g., OpenSSH)
+- AWS CLI configured (aws configure)
+
+2. AWS SETUP
+------------
+A. Launch an EC2 Instance:
+   - AMI: Ubuntu 22.04 LTS
+   - Security Group Rules:
+     * Inbound: SSH (22), PostgreSQL (5432)
+     * Outbound: All traffic
+
+B. Set Up PostgreSQL Database:
+   Option 1 (AWS RDS):
+   - Create PostgreSQL RDS instance
+   - Note: Endpoint, username, password, DB name
+
+   Option 2 (Local Install on EC2):
+   $ sudo apt install postgresql postgresql-contrib
+   $ sudo -u postgres psql -c "CREATE DATABASE nimis;"
+
+3. CONFIGURE ENVIRONMENT
+------------------------
+A. Clone Repository:
+   $ git clone https://github.com/St-Ivanov-wq/NIMIS.git
+   $ cd NIMIS-main
+
+B. Create .env File:
+   $ nano .env
+   Add:
+   DB_NAME=nimis
+   DB_USER=postgres
+   DB_PASSWORD=your_password
+   DB_HOST=your-rds-endpoint
+   DB_PORT=5432
+
+C. Create Directories:
+   $ mkdir -p ~/machine_app/input
+   $ mkdir -p ~/machine_app/output
+
+4. INSTALL DEPENDENCIES
+-----------------------
+$ sudo apt update && sudo apt install python3-pip python3-venv -y
+$ python3 -m venv venv
+$ source venv/bin/activate
+$ pip install -r requirements.txt
+
+5. RUN THE PROCESSOR
+--------------------
+$ cd app
+$ python processor.py
+
+To run as a background service:
+A. Create systemd service:
+   $ sudo nano /etc/systemd/system/nimis.service
+
+B. Paste:
+   [Unit]
+   Description=NIMIS File Processor
+   [Service]
+   User=ubuntu
+   WorkingDirectory=/home/ubuntu/NIMIS-main/app
+   ExecStart=/home/ubuntu/NIMIS-main/venv/bin/python processor.py
+   Restart=always
+   [Install]
+   WantedBy=multi-user.target
+
+C. Start Service:
+   $ sudo systemctl daemon-reload
+   $ sudo systemctl start nimis
+   $ sudo systemctl enable nimis
+
+6. TESTING
+----------
+A. Add Test File:
+   $ echo "Operational;TerminalA;Machine1;Operator1;25.04.2024;1714060800;" > ~/machine_app/input/test.txt
+
+B. Verify:
+   - Check ~/machine_app/output for moved files
+   - Query database:
+     $ psql -h $DB_HOST -U $DB_USER -d $DB_NAME -c "SELECT * FROM processed_data;"
+
+7. TROUBLESHOOTING
+------------------
+- Database Connection Failed: Check .env credentials
+- Permission Denied: Run chmod -R 755 ~/machine_app
+- Missing Dependencies: Activate venv and pip install
+
+8. SECURITY BEST PRACTICES
+--------------------------
+- Restrict SSH access to trusted IPs
+- Never commit .env to version control
+- Use AWS IAM roles for EC2-RDS access
+
+9. REPOSITORY STRUCTURE
+-----------------------
+NIMIS/
+├── app/               # Core processing logic
+├── AnomalyDetection/  # ML models
+├── TestData/          # Sample files
+└── requirements.txt   # Dependencies
