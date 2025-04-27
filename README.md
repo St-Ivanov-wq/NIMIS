@@ -29,6 +29,16 @@ cd NIMIS-main
 
 # Create data directories
 mkdir -p ~/machine_app/{input,output}
-
+```
 ---
-**☁️ AWS Deployment Guide**
+**##☁️ AWS Deployment Guide**
+1. Infrastructure Setup
+
+EC2 Instance (Ubuntu 22.04):
+```bash
+- AMI: Ubuntu Server 22.04 LTS
+- Instance Type: t3.medium
+- Security Group Rules:
+- SSH (Port 22) - Restricted to your IP
+- PostgreSQL (Port 5432) - Open to EC2 security group
+```
