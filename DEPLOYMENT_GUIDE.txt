@@ -102,6 +102,6 @@ B. Verify:
 -----------------------
 NIMIS/
 ├── app/               # Core processing logic
-├── AnomalyDetection/  # ML models
 ├── TestData/          # Sample files
 └── requirements.txt   # Dependencies
+Hope it helps!
