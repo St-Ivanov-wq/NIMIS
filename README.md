@@ -31,7 +31,7 @@ cd NIMIS-main
 mkdir -p ~/machine_app/{input,output}
 ```
 ---
-**##☁️ AWS Deployment Guide**
+**## ☁️ AWS Deployment Guide**
 1. Infrastructure Setup
 
 EC2 Instance (Ubuntu 22.04):
