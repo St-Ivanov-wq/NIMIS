@@ -57,8 +57,45 @@ nano .env
 ```
 ```ini
 DB_NAME=nimis_prod
-DB_USER=postgres
-DB_PASSWORD=your_secure_password
+DB_USER=postgres //or some name
+DB_PASSWORD=your_password_here
 DB_HOST=your-rds-endpoint
 DB_PORT=5432
 ```
+
+**3. Service Installation**
+```bash
+sudo apt update && sudo apt install python3-pip python3-venv -y
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
+```
+**4. Launch Application**
+```bash
+cd app
+python processor.py
+```
+
+**5. Production Deployment (systemd)**
+```bash
+sudo nano /etc/systemd/system/nimis.service
+```
+```ini
+[Unit]
+Description=NIMIS Data Processor
+After=network.target
+
+[Service]
+User=ubuntu
+WorkingDirectory=/home/ubuntu/NIMIS-main/app
+ExecStart=/home/ubuntu/NIMIS-main/venv/bin/python processor.py
+Restart=always
+
+[Install]
+WantedBy=multi-user.target
+```
+```bash
+sudo systemctl daemon-reload
+sudo systemctl enable --now nimis
+```
+**🐳 Docker Deployment**
