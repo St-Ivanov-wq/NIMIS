@@ -31,7 +31,7 @@ cd NIMIS-main
 mkdir -p ~/machine_app/{input,output}
 ```
 ---
-**## ☁️ AWS Deployment Guide**
+** ## ☁️ AWS Deployment Guide**
 1. Infrastructure Setup
 
 EC2 Instance (Ubuntu 22.04):
@@ -41,4 +41,24 @@ EC2 Instance (Ubuntu 22.04):
 - Security Group Rules:
 - SSH (Port 22) - Restricted to your IP
 - PostgreSQL (Port 5432) - Open to EC2 security group
+```
+RDS PostgreSQL:
+```ini
+DB Engine: PostgreSQL 14
+Instance Class: db.t3.micro
+Storage: 20GB GP2
+Allocated Storage: 20GB
+Public Accessibility: No
+```
+
+**2. Configuration**
+```bash
+nano .env
+```
+```ini
+DB_NAME=nimis_prod
+DB_USER=postgres
+DB_PASSWORD=your_secure_password
+DB_HOST=your-rds-endpoint
+DB_PORT=5432
 ```
