@@ -13,20 +13,4 @@
 - 📊 **Structured Logging**: Audit-ready logs with severity levels  
 - ☁️ **AWS Optimized**: Pre-configured for EC2 + RDS deployment  
 
-```mermaid
-graph TD
-A[Machines] --> B(~/machine_app/input)
-B --> C{Processor.py}
-C --> D[(PostgreSQL)]
-C --> E[~/machine_app/output]
-D --> F{{Analytics}}
-E --> G[Archival Storage]
----
-🛠️ Installation & Setup
-Prerequisites
 
-    Python 3.10+
-
-    PostgreSQL 14+
-
-    AWS Account (for cloud deployment)
