@@ -5,15 +5,28 @@
 
 ---
 
-## 🌟 Features  
-- **Real-Time File Monitoring** - Watchdog-based detection of new data files  
-- **Multi-Encoding Support** - Auto-detects UTF-8/Windows-1251 encodings  
-- **Smart Data Validation** - Skips invalid lines & multilingual headers  
-- **PostgreSQL Integration** - Connection pooling with retry logic  
-- **Audit-Ready Logging** - Structured logs with severity levels  
-- **AWS Optimized** - Pre-configured for EC2 + RDS deployment  
+## 🌟 Key Features  
+- 🕵️ **Real-Time Monitoring**: Directory watcher for instant file processing  
+- 📁 **Smart File Handling**: Supports UTF-8 & Windows-1251 encodings  
+- ✅ **Data Validation**: Skips invalid lines and multilingual headers  
+- 🗄️ **PostgreSQL Integration**: Connection pooling with retry logic  
+- 📊 **Structured Logging**: Audit-ready logs with severity levels  
+- ☁️ **AWS Optimized**: Pre-configured for EC2 + RDS deployment  
 
+```mermaid
+graph TD
+A[Machines] --> B(~/machine_app/input)
+B --> C{Processor.py}
+C --> D[(PostgreSQL)]
+C --> E[~/machine_app/output]
+D --> F{{Analytics}}
+E --> G[Archival Storage]
 ---
+🛠️ Installation & Setup
+Prerequisites
 
-🚀 ** AWS Deployment **
+    Python 3.10+
 
+    PostgreSQL 14+
+
+    AWS Account (for cloud deployment)
